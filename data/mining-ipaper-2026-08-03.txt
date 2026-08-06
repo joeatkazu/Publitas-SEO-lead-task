@@ -1,0 +1,39 @@
+================================================================================
+YELP REVIEWS ANALYSIS SUMMARY
+================================================================================
+
+📈 CUSTOMER DESIRES
+--------------------------------------------------------------------------------
+1. Automated Enrichment & Product Linking
+   Customers strongly value automatic enrichment to connect catalog items to e-commerce product pages. One reviewer calls it "the easiest and quickest way to link all products on the catalog," and another highlights "automating the enrichment of the e-brochures."
+
+2. Embedded Interactivity & CTA Layers
+   Reviewers appreciate flipbooks that go beyond static pages, specifically noting "embedded videos and interactivity" and "hidden layer insertion for CTA positioning" as ways to improve visitor UX and drive action.
+
+3. Localized & Multi-Version Catalog Support
+   Retail users value flexibility for managing regional variations, such as "not only masters but also localized versions," and successfully handling "several versions of the same catalog" within one workflow.
+
+4. API/FTP Integration & E-commerce Workflows
+   Integration ease is a standout: one reviewer praises "Ease of Integration with API and FTP," while another uses iPaper to "link and automate e-brochures into our e-commerce system."
+
+5. Centralized Flipbook/Sales Enablement Hub
+   A few customers see iPaper as a single source of truth: it gives them "a central place to store all of our external sales enablement pieces" and helps "keep your flipbooks in one place."
+
+⚠️  PAIN POINTS
+--------------------------------------------------------------------------------
+1. Mobile Optimization Gaps for Retail Papers
+   One retail catalog user says, "Not enough mobile friendly. For retail papers, the majority of users will use their mobile and you can't..." This suggests mobile viewing still falls short for certain catalog use cases even though other reviewers praise mobile as a strength.
+
+2. Backend Processing Glitches
+   There are occasional stability issues around flipbook generation: "small glitches in the backend around processing of Flipbooks and program flow," and "from time to time you can run into technical issues," though support usually resolves them.
+
+3. Data Structuring Learning Curve for Enrichment
+   The valuable automation requires upfront data preparation. As one reviewer notes, "You may need a little time to find the good process to structure your datas for automatic enrichment."
+
+4. Platform File Management Friction
+   Managing files inside iPaper can be awkward: "managing files in platform could be tuff," indicating the file organization experience is less polished than the publishing experience.
+
+5. ADA/Accessibility Compliance Gap
+   A reviewer recalls a serious limitation: "we were in need of a new partner because iPaper was not ADA compliant." This points to accessibility compliance as a potential barrier for enterprise or public-facing customers.
+
+================================================================================

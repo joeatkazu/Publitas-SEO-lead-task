@@ -1,0 +1,39 @@
+================================================================================
+YELP REVIEWS ANALYSIS SUMMARY
+================================================================================
+
+📈 CUSTOMER DESIRES
+--------------------------------------------------------------------------------
+1. **Stable, permanent links**
+   Customers repeatedly value that published links never change or expire, even when the underlying book is updated. One reviewer notes "the link doesn't change even when the FlippingBook does," and another says "books never expire, because the link that is..." — making it a reliable, long-term asset for distributing catalogs and training materials.
+
+2. **Usage analytics and performance tracking**
+   Reviewers appreciate granular insight into how their content performs, citing "stats and analytics to track which of our offerings are the best performing by view count, pages where users spent the most or least amount of time, and more." This goes beyond basic page views and helps teams identify which assets drive engagement.
+
+3. **Interactive elements (TOC, embedded media)**
+   The interactive Table of Contents and embedded content (videos, links, GIFs) are repeatedly called out as differentiators. One reviewer describes it as "a very unique, yet familiar user experience" with "easy navigation between pages using the interactive Table of Contents" — making documents more engaging and memorable than static PDFs.
+
+4. **HTML5 evolution & mobile responsiveness**
+   Customers appreciate the platform's technical maturation from Flash to full HTML5, with one noting "the mobile-responsiveness of the product continues to get better." This is seen as a sign of ongoing product investment and directly improves usability for readers on any device.
+
+5. **Quick publishing & easy updates**
+   The ability to make immediate changes and re-publish is a core value. Reviewers praise "really easy to upload books and make changes to existing books within their software" and "immediate changes that I can make and 'publish' for the patrons of our shows" — enabling real-time content refreshes without re-distribution.
+
+⚠️  PAIN POINTS
+--------------------------------------------------------------------------------
+1. **No in-app page authoring**
+   The most significant gap: "The major growth opportunity would be for FlippingBook to offer in-app authoring of pages. Currently, my team creates PDFs using other software, then we upload to FlippingBook and add interactivity." This forces users to maintain a separate design toolchain before they can leverage FlippingBook's features.
+
+2. **Restricted video embedding formats**
+   Users are limited to YouTube, Vimeo, and Wistia for video content. One reviewer explains, "my team had to find workarounds for including video assets as FlippingBook currently only allows for YouTube, Vimeo, and Wistia," though they note a planned enhancement for mp4 embedding is on the roadmap.
+
+3. **Cumbersome TOC creation**
+   Building the interactive Table of Contents can be tedious. One reviewer admits, "Sometimes, the table of contents can be cumbersome to create, but I'm not sure if that's me or the feature" — indicating the workflow isn't as friction-free as the rest of the product.
+
+4. **Limited skin variety**
+   While the product offers a "nice variety of 'Skins' for the backgrounds," one long-time user expresses a desire for more: "But guess I always want to see..." — suggesting the customization options feel constrained for users who want to further differentiate their branded books.
+
+5. **Workarounds needed for links/GIFs**
+   Some users find that adding links and GIFs requires extra effort. One reviewer's problem statement — "Making links and GIFs easier to use and improve my visual appeal" — implies the current process isn't as seamless as they'd like, requiring manual workarounds to achieve the desired visual result.
+
+================================================================================

@@ -1,0 +1,39 @@
+================================================================================
+YELP REVIEWS ANALYSIS SUMMARY
+================================================================================
+
+📈 CUSTOMER DESIRES
+--------------------------------------------------------------------------------
+1. Interactive Page-Turning Reading Experience
+   Reviewers consistently value the "magazine-like" experience that "mimics flipping through an actual magazine" — page turns instead of scrolling, giving publications a polished feel online rather than "just another PDF."
+
+2. Reusable Templates for Consistent Branding
+   The ability to build a template once and apply it across publications gives "a synced feel" and a "consistent look" for brochures, project packets, and magazines, cutting down setup time on every new project.
+
+3. Table of Contents Navigation
+   Both the automatic TOC generator and clickable page numbers are called out as standout features — reviewers can "click a page number ... to jump straight to that article," and the generator "has been awesome every single time we've used it."
+
+4. AI Animation Enhancements
+   Reviewers appreciate how AI animations "add a significant and valuable touch" to documents and "brings my books to life," making publications feel more engaging and interactive.
+
+5. Hands-On, Responsive Customer Support
+   Support is praised as "fast and outstanding," with one reviewer describing how a support rep "sent me a tutorial on how to move objects to the front/back using the layers panel" — going beyond standard help to teach practical workflows.
+
+⚠️  PAIN POINTS
+--------------------------------------------------------------------------------
+1. Confusing Tier and Page-Limit Transparency
+   "The tiers weren't clear upfront about page limits," forcing one reviewer to "upgrade twice because we had 350+ pages" — they wanted all page-limit details laid out before paying.
+
+2. Pricing/Upgrade Paywalls for Desired Features
+   Multiple reviewers noted that "everything we'd like to try is always only available another tier," including custom URLs, fonts, and other customization options that small or self-funded organizations struggle to justify paying for.
+
+3. Editing Workflow and Feature-Discovery Friction
+   Post-publication editing is "not always intuitive" and requires "a bit of clicking around"; reviewers also mention limited keyboard shortcuts, and one asked for "guidance, training or encouragement" to understand the editing features.
+
+4. AI Animations Can't Be Previewed Before Use
+   The AI animation feature "sometimes totally transforms" characters into "other creatures," and there is no preview or written description before committing, making it risky for branded or illustrated content.
+
+5. Large/Complex File Processing Is Slow
+   When uploading "massive, high-resolution 3D design renderings or complex architectural drawing packages," the system "can sometimes feel a bit slow to process and optimize the files."
+
+================================================================================

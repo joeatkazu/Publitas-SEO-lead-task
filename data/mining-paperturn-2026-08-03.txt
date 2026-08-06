@@ -1,0 +1,39 @@
+================================================================================
+YELP REVIEWS ANALYSIS SUMMARY
+================================================================================
+
+📈 CUSTOMER DESIRES
+--------------------------------------------------------------------------------
+1. Live Updating Share Links
+   Reviewers value sharing PDFs as “live, interactive links” instead of attachments; one notes they can “easily overwrite prices without the link changing,” so recipients always have the current version.
+
+2. Engaging Page-Turn Experience
+   “Paperturn brings our PDFs to life” with iframes, videos, and popups; another reviewer likes that “the pages actually turn” and calls it a “premium user experience” that keeps readers engaged.
+
+3. Cross-Publication Navigation
+   One reviewer praises the ability to “easily link content from one publication to another”; another specifically wanted a table of contents so readers can navigate professional material after classes.
+
+4. Cost-Effective Print Replacement
+   Multiple reviewers use the platform to “save on print costs” and as a “digital tool which solves the problem of producing hard copies” while still delivering a polished, professional look.
+
+5. External Sharing to Prospects and Customers
+   The platform is used to share “visually attractive” links with trade customers, prospecting clients, and even job candidates who “doesn’t yet have access” to internal systems, making it a polished external-facing channel.
+
+⚠️  PAIN POINTS
+--------------------------------------------------------------------------------
+1. Shared Preview Image Downgraded
+   One user’s main complaint is “the preview image being downgraded when using the share” link, which hurts the polished first impression when recipients open the publication.
+
+2. Limited Copy and Paste Editing
+   A reviewer asks for “a better copy and paste function” in the editor, suggesting the current workflow is clumsy when reusing or reorganizing content inside a flipbook.
+
+3. Cannot Edit from Original Source Files
+   Editing is constrained because uploaded PDFs don’t reflect source changes; one reviewer wants to “allow uploading the .pptx so it’s automatically converted to .pdf, while keeping” edits and notes that “the entire page should be replaced” based on the original .pptx.
+
+4. No Per-Recipient Personalization
+   For sales use, one reviewer wants to “add personalization in there. For example, we add in sales rep details to each individual” prospect, a feature that is currently missing.
+
+5. Expensive with Content Lock-In
+   Pricing is a concern: a smaller company calls it “expensive” for their limited needs, while another worries about “the risk of losing our content if we don’t continue to annually subscribe.”
+
+================================================================================

@@ -1,0 +1,45 @@
+================================================================================
+YELP REVIEWS ANALYSIS SUMMARY
+================================================================================
+
+📈 CUSTOMER DESIRES
+--------------------------------------------------------------------------------
+1. Seamless PDF Replacement Without Re-Tagging
+   Reviewers repeatedly value updating a published PDF without breaking their work: one can "update an existing PDF without the need to re-tag" and replace files "without changing the URL." This was even a deciding factor over FlipHTML5, which "makes you re-tag everything."
+
+2. Shoppable Product Hotspots
+   Users want flipbooks to drive ecommerce conversions, e.g., "link products from a flipbook... bring traffic from the flipbook to the actual products on the website." Product-feed integration to "search for products and make the catalog shoppable" is cited as a standout capability.
+
+3. Immersive Page-Flip Reader
+   The flip experience itself is a differentiator: the "page-flipping effect... makes you feel like reading a hardcopy catalog," and multiple reviewers praise the "beauty and fluidity" and smooth display of published documents.
+
+4. Rich Media and Video Embedding
+   Customers appreciate and ask for "embedded playable videos, slideshows, animated gifs for an incredible user experience." Others want more video options, saying "link to videos in catalogues... give some more experience to visitors."
+
+5. Actionable Analytics and Dashboards
+   GA integration and dashboards are valued for strategy: "GA integration helps us in refining strategies," and "personalized dashboards have greatly assisted us with our metric comparisons." Users want these measurements to be easy to connect to platforms like GA4 or Looker.
+
+6. Proactive Co-Development Support
+   Beyond standard support, customers highlight a partner-style relationship: features requested "are ready for us within a week or two," and the team brings "free upgrades" and revenue-driving features to quarterly meetings.
+
+⚠️  PAIN POINTS
+--------------------------------------------------------------------------------
+1. Missing Batch Operations
+   Multiple reviews call for bulk actions: "select several catalogues and change the timings for all of them at once," and "scheduling our catalogues one by one" should have a batch setting. Publication deletion also requires archiving and deleting one item at a time.
+
+2. Limited Layout and Template Controls
+   "The lack of rules or coordinates to align objects" appears twice, and users want more design autonomy — "a very basic 'canva' solution to build natively," image editing like brightness adjustments, and suggestions for "cool templates."
+
+3. Product Tagging and Hotspot Gaps
+   Auto-tagging "is not working sometimes" and there is no "inbuilt feature to tag multiple products." When replacing a document, "link hotspots remain in the same location and are not automatically regenerated."
+
+4. Conversion Analytics Gaps
+   Users struggle to tie catalog views to revenue: "I am still struggling to track conversion from Publitas views," and a GA4 setup still doesn't show conversion data. One reviewer asks for a "simple integration" with GA4 or Looker, or a native analytics report.
+
+5. Mobile Optimization Deficiencies
+   One review summarizes: "Not good in landscape on mobile, not very mobile optimised at all." Another notes responsiveness is still being worked on as the tool evolves.
+
+6. Rigid Pricing and Payment Options
+   Customers cite "limited payment options" such as no yearly transfer, charges once certain thresholds are hit, and a missing "intermediate business paid plan between 1 and 2." One accounting team also had friction because offshore/international card billing didn't suit monthly invoicing.
+
+================================================================================

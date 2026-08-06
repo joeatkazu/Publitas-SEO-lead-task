@@ -1,0 +1,200 @@
+domain,class,method,rationale,confidence,citations_total,citations_cat_entry,cited_pages,cited_pages_cat_entry,in_presence_audit
+flippingbook.com,competitor,exact,FlippingBook — tracked competitor in brands/publitas/config.yaml,high,46,15,15,5,no
+publitas.com,brand-owned,exact,"Publitas's own domain — the brand, not a third party",high,43,1,16,1,no
+dcatalog.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,34,9,11,5,no
+flipsnack.com,competitor,exact,Flipsnack — tracked competitor in brands/publitas/config.yaml,high,32,11,12,4,no
+fliplink.me,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,30,9,10,2,yes
+paperturn.com,competitor,exact,Paperturn — tracked competitor in brands/publitas/config.yaml,high,30,13,12,6,no
+youtube.com,ugc,exact,user-generated content platform,high,30,11,18,6,yes
+blog.flipsnack.com,competitor,exact,Flipsnack — tracked competitor in brands/publitas/config.yaml,high,20,1,12,1,no
+fliphtml5.com,competitor,exact,FlipHTML5 — tracked competitor in brands/publitas/config.yaml,high,19,6,11,5,no
+help.flipsnack.com,competitor,exact,Flipsnack — tracked competitor in brands/publitas/config.yaml,high,19,6,9,3,no
+g2.com,review-platform,exact,software review directory / listing platform,high,18,0,10,0,yes
+issuu.com,competitor,exact,Issuu — tracked competitor in brands/publitas/config.yaml,high,14,5,6,4,no
+publuu.com,competitor,exact,Publuu — tracked competitor in brands/publitas/config.yaml,high,14,2,6,2,no
+reddit.com,ugc,exact,user-generated content platform,high,14,5,6,3,yes
+guideflow.com,adjacent-vendor,llm,interactive demo platform publishing its own category roundups,high,13,0,4,0,yes
+blog.flipbooksai.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,12,4,3,2,yes
+3dissue.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (1),high,11,4,7,3,yes
+sourceforge.net,review-platform,exact,software review directory / listing platform,high,10,0,4,0,yes
+zenflip.io,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (5),high,10,3,5,1,yes
+capterra.com,review-platform,exact,software review directory / listing platform,high,9,2,5,1,yes
+catalogy.com,competitor,heuristic,homepage sells in-category product (matched: digital catalog) + commercial paths (1),high,8,0,2,0,yes
+ipaper.io,competitor,exact,iPaper — tracked competitor in brands/publitas/config.yaml,high,8,4,2,1,no
+yudu.com,competitor,heuristic,homepage sells in-category product (matched: digital publishing) + commercial paths (1),high,7,0,2,0,yes
+apps.shopify.com,review-platform,llm,"Shopify App Store — listing/profile surface, not editorial outreach",high,6,1,4,1,yes
+adobe.com,adjacent-vendor,llm,Adobe,high,5,1,3,1,no
+heyzine.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,5,4,1,1,no
+slashdot.org,review-platform,exact,software review directory / listing platform,high,5,0,2,0,yes
+support.google.com,adjacent-vendor,llm,Google product help,high,5,0,4,0,no
+getapp.com,review-platform,exact,software review directory / listing platform,high,4,0,3,0,yes
+gitnux.org,independent-editorial,llm,AI-generated market-statistics content farm (same template as zipdo/wifitalents),medium,4,0,2,0,yes
+pubhtml5.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (1),high,4,1,4,1,no
+zipdo.co,independent-editorial,llm,"AI-generated market-statistics content farm; sells reports, not in-category product",medium,4,0,2,0,yes
+accio.com,adjacent-vendor,llm,agentic business AI,high,3,0,1,0,yes
+alina-25366.medium.com,ugc,exact,user-generated content platform,high,3,0,1,0,yes
+cloudtalk.io,adjacent-vendor,llm,call-centre software,high,3,0,1,0,no
+coherentmarketinsights.com,independent-editorial,llm,market-research report publisher,medium,3,3,1,1,yes
+commplify.ai,adjacent-vendor,llm,omnichannel CX platform,high,3,0,1,0,no
+comosoft.us,adjacent-vendor,llm,multichannel marketing/PIM/DAM (LAGO),high,3,0,2,0,no
+dailyiowan.com,independent-editorial,llm,independent university newspaper,high,3,3,1,1,yes
+developers.google.com,adjacent-vendor,llm,Google developer docs,high,3,0,2,0,no
+digital-catalogue.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,3,0,2,0,yes
+edvantis.com,adjacent-vendor,llm,software development services,high,3,0,1,0,no
+facebook.com,ugc,exact,user-generated content platform,high,3,1,3,1,no
+gartner.com,review-platform,exact,software review directory / listing platform,high,3,0,2,0,yes
+help.fliphtml5.com,competitor,exact,FlipHTML5 — tracked competitor in brands/publitas/config.yaml,high,3,0,2,0,no
+help.issuu.com,competitor,exact,Issuu — tracked competitor in brands/publitas/config.yaml,high,3,0,1,0,no
+i3dify.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,3,0,1,0,yes
+kindlepreneur.com,independent-editorial,llm,"self-publishing blog, affiliate-monetised — the reference case",high,3,3,1,1,yes
+nubuntu.org,independent-editorial,llm,"flipbook-topic content blog; no product sold on the domain, but SEO-farm in character",medium,3,1,2,1,no
+realviewdigital.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (1),high,3,3,1,1,no
+support.yotpo.com,adjacent-vendor,llm,Yotpo (ecommerce reviews/loyalty) support portal,high,3,0,1,0,no
+thecxlead.com,independent-editorial,llm,Black&White Zebra editorial listicle network ('10 Best …'),high,3,0,1,0,yes
+theretailexec.com,independent-editorial,llm,retail trade content site,high,3,0,1,0,yes
+vendors.accessibility.com,independent-editorial,llm,accessibility resource authority with a vendor directory; no in-category product,medium,3,0,1,0,no
+veopage.com,competitor,llm,flipbook vendor: own blog runs 'Best Issuu Alternatives: 12 Top Platforms Compared' at /en/blog/,high,3,0,1,0,yes
+wifitalents.com,independent-editorial,llm,AI-generated market-statistics content farm (same template),medium,3,0,2,0,yes
+apps.apple.com,review-platform,llm,"Apple App Store — listing surface, not editorial outreach",high,2,2,1,1,no
+attributionapp.com,adjacent-vendor,llm,marketing attribution software,high,2,0,1,0,yes
+capterra.co.uk,review-platform,heuristic,country/locale variant of a tracked review directory,high,2,0,1,0,yes
+catalogmachine.com,competitor,heuristic,homepage sells in-category product (matched: online catalog) + commercial paths (9),high,2,2,1,1,yes
+catsy.com,adjacent-vendor,llm,PIM/DAM,high,2,0,2,0,no
+crozdesk.com,review-platform,exact,software review directory / listing platform,high,2,0,2,0,no
+emagazines.com,competitor,heuristic,homepage sells in-category product (matched: digital edition) + commercial paths (1),high,2,0,1,0,no
+en.blog.yumpu.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (12),high,2,1,2,1,no
+experienceleague.adobe.com,adjacent-vendor,llm,Adobe Experience Cloud docs,high,2,0,2,0,no
+flowpaper.com,competitor,llm,FlowPaper — 'Flipbook Maker and Interactive Publications Platform' (fmr FlexPaper),high,2,0,1,0,yes
+foleon.com,competitor,exact,Foleon — tracked competitor in brands/publitas/config.yaml,high,2,2,1,1,no
+formaxprinting.com,adjacent-vendor,llm,commercial print shop,high,2,2,1,1,no
+goorca.ai,adjacent-vendor,llm,AI growth agents for Shopify,high,2,0,1,0,yes
+hatsoffdigital.com,adjacent-vendor,llm,digital marketing agency,high,2,0,1,0,no
+helpx.adobe.com,adjacent-vendor,llm,Adobe product help,high,2,0,2,0,no
+instagram.com,ugc,exact,user-generated content platform,high,2,0,2,0,no
+leakypaywall.com,adjacent-vendor,llm,WordPress subscription/paywall platform for publishers,high,2,1,1,1,no
+linkedin.com,ugc,exact,user-generated content platform,high,2,1,2,1,no
+medium.com,ugc,exact,user-generated content platform,high,2,0,1,0,yes
+mediumtalk.net,independent-editorial,llm,WordPress/SEO blog,high,2,0,1,0,yes
+odoopim.com,adjacent-vendor,llm,PIM,high,2,0,1,0,yes
+optimizesmart.com,adjacent-vendor,llm,GA4/GTM consultancy,high,2,0,1,0,yes
+pageturnpro.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,2,0,2,0,no
+pimcore.com,adjacent-vendor,llm,PIM/MDM/DXP,high,2,0,1,0,yes
+prnewswire.com,independent-editorial,llm,"press-release wire; placement surface, sells no in-category product",high,2,2,1,1,yes
+redpepperdigital.net,competitor,heuristic,homepage sells in-category product (matched: digital catalog) + commercial paths (1),high,2,0,1,0,no
+research.com,review-platform,llm,software review directory (cited page is a product review),high,2,0,1,0,yes
+shopify.com,adjacent-vendor,llm,Shopify,high,2,0,2,0,yes
+softwareadvice.co.uk,review-platform,heuristic,country/locale variant of a tracked review directory,high,2,0,1,0,yes
+softwaresuggest.com,review-platform,exact,software review directory / listing platform,high,2,0,2,0,yes
+support.fliphtml5.com,competitor,exact,FlipHTML5 — tracked competitor in brands/publitas/config.yaml,high,2,0,2,0,no
+thecmo.com,independent-editorial,llm,Black&White Zebra editorial listicle network ('10 Best …'),high,2,0,2,0,no
+zipflipbook.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (1),high,2,0,1,0,no
+zohodesk.dcatalog.com,competitor,llm,DCatalog's own support portal (Zoho Desk subdomain),high,2,0,2,0,no
+accessibe.com,adjacent-vendor,llm,web accessibility overlay/compliance vendor,high,1,0,1,0,no
+agneovo.com,adjacent-vendor,llm,display hardware,high,1,0,1,0,no
+aims360.com,adjacent-vendor,llm,apparel ERP,high,1,0,1,0,no
+alternativeto.net,review-platform,exact,software review directory / listing platform,high,1,0,1,0,yes
+analyticsmania.com,independent-editorial,llm,independent GTM/GA blog,high,1,0,1,0,no
+antares.am,competitor,llm,Antares Media Holding sells e-magazine production; cited page is 'E-Magazines vs. Flipbooks',medium,1,0,1,0,no
+anyflip.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,1,0,1,0,no
+archimetric.com,adjacent-vendor,llm,EA/DevOps consultancy content site,high,1,0,1,0,no
+bakedmoon.studio,adjacent-vendor,llm,3D modelling studio,high,1,0,1,0,no
+banedsgn.com,adjacent-vendor,llm,K-12 editorial design studio,high,1,1,1,1,no
+blog.calameo.com,competitor,llm,Calaméo digital-publishing platform blog,high,1,0,1,0,no
+blog.catalogmachine.com,competitor,llm,"blog subdomain of catalogmachine.com, already classed competitor",high,1,0,1,0,yes
+blog.dot.vu,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (2),high,1,0,1,0,no
+blog.paperturn.com,competitor,exact,Paperturn — tracked competitor in brands/publitas/config.yaml,high,1,1,1,1,no
+blog.visual-paradigm.com,adjacent-vendor,llm,Visual Paradigm (modelling/diagramming) blog,high,1,0,1,0,no
+bloomreach.com,adjacent-vendor,llm,personalisation/commerce AI,high,1,0,1,0,no
+business.adobe.com,adjacent-vendor,llm,Adobe Experience Cloud,high,1,1,1,1,no
+ca.pcmag.com,independent-editorial,llm,PCMag — technology review publication,high,1,1,1,1,no
+calendhub.com,adjacent-vendor,llm,calendar/scheduling software,high,1,0,1,0,no
+circulio.com,adjacent-vendor,llm,rental ecommerce platform,high,1,0,1,0,no
+cms.flipbuilder.com,competitor,llm,FlipBuilder; cited page is /extension/digital-catalogue-software.html,high,1,0,1,0,no
+community.shopify.com,ugc,llm,Shopify merchant community forum,high,1,0,1,0,yes
+contentful.com,adjacent-vendor,llm,headless CMS,high,1,0,1,0,no
+conversios.io,adjacent-vendor,llm,GA4/ecommerce analytics plugin,high,1,0,1,0,yes
+convert.com,adjacent-vendor,llm,A/B testing tool,high,1,0,1,0,no
+convert.elevio.help,adjacent-vendor,llm,Convert.com knowledge base,high,1,0,1,0,no
+cuspera.com,review-platform,llm,software discovery/advisor directory,high,1,0,1,0,no
+cwcreative.com,adjacent-vendor,llm,print/graphic/web design studio,high,1,0,1,0,no
+cxtoday.com,independent-editorial,llm,CX trade publication,high,1,0,1,0,no
+developers.facebook.com,ugc,exact,user-generated content platform,high,1,0,1,0,no
+developers.publitas.com,brand-owned,exact,"Publitas's own domain — the brand, not a third party",high,1,0,1,0,no
+digitalanalystteam.com,adjacent-vendor,llm,white-label digital agency,high,1,0,1,0,no
+dirxion.com,competitor,llm,Dirxion digital-edition/lookbook vendor; cited page is its own retail lookbook article,medium,1,0,1,0,no
+distributordatasolutions.com,adjacent-vendor,llm,product-data platform,high,1,0,1,0,yes
+dxpscorecard.com,review-platform,llm,independent DXP/CMS scoring directory,high,1,0,1,0,yes
+echovme.in,adjacent-vendor,llm,digital marketing agency,high,1,0,1,0,no
+elementor.com,adjacent-vendor,llm,website builder,high,1,0,1,0,no
+en.fluidbook.com,competitor,llm,"Fluidbook — 'the best interactive catalogue solution … e-brochures, flipbooks'",high,1,1,1,1,no
+equalweb.com,adjacent-vendor,llm,web accessibility vendor,high,1,0,1,0,no
+equidox.co,adjacent-vendor,llm,PDF accessibility remediation software,high,1,1,1,1,no
+expivi.com,adjacent-vendor,llm,3D product configurator/CPQ,high,1,0,1,0,no
+featuredcustomers.com,review-platform,exact,software review directory / listing platform,high,1,0,1,0,no
+filestage.io,adjacent-vendor,llm,online proofing software,high,1,0,1,0,no
+fittdesign.com,adjacent-vendor,llm,apparel design & production agency,high,1,0,1,0,no
+flipbookpdf.net,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (1),high,1,1,1,1,no
+fliplify.com,competitor,heuristic,homepage sells in-category product (matched: flip\s?book) + commercial paths (1),high,1,1,1,1,no
+gelato.com,adjacent-vendor,llm,print-on-demand platform,high,1,0,1,0,no
+globalmediainsight.com,adjacent-vendor,llm,digital agency,high,1,0,1,0,no
+goodmenproject.com,independent-editorial,llm,general-interest online publication,high,1,1,1,1,no
+help.3dsellers.com,adjacent-vendor,llm,3Dsellers (ecommerce tooling) help centre,high,1,0,1,0,no
+help.flowhub.com,adjacent-vendor,llm,Flowhub (cannabis POS) help centre,high,1,0,1,0,no
+help.ipaper.io,competitor,exact,iPaper — tracked competitor in brands/publitas/config.yaml,high,1,0,1,0,no
+help.shopify.com,adjacent-vendor,llm,Shopify merchant docs,high,1,0,1,0,yes
+influenceflow.io,adjacent-vendor,llm,influencer marketing platform,high,1,0,1,0,no
+inro.social,adjacent-vendor,llm,Instagram DM automation,high,1,0,1,0,no
+knowband.com,adjacent-vendor,llm,ecommerce plugins/extensions,high,1,0,1,0,no
+kontent.ai,adjacent-vendor,llm,headless CMS,high,1,0,1,0,no
+learn.microsoft.com,adjacent-vendor,llm,Microsoft docs,high,1,0,1,0,no
+lunio.ai,adjacent-vendor,llm,ad-traffic verification,high,1,0,1,0,no
+lyxelandflamingo.com,adjacent-vendor,llm,digital marketing agency,high,1,0,1,0,no
+measureu.com,adjacent-vendor,llm,measurement training courses,high,1,0,1,0,no
+meta.com,adjacent-vendor,llm,Meta,high,1,0,1,0,no
+meta.discourse.org,ugc,exact,user-generated content platform,high,1,0,1,0,no
+mhs.ox.ac.uk,independent-editorial,llm,Oxford museum exhibit page — unrelated sense of 'flip book',high,1,1,1,1,no
+mitrmedia.com,adjacent-vendor,llm,publisher technology & services firm,high,1,1,1,1,no
+moast.io,adjacent-vendor,llm,shoppable video app for Shopify,high,1,0,1,0,no
+neilpatel.com,adjacent-vendor,llm,NP Digital — agency + owned marketing media,high,1,0,1,0,no
+nmu.edu,independent-editorial,llm,university,high,1,1,1,1,no
+omegatheme.com,adjacent-vendor,llm,Shopify/Wix apps,high,1,0,1,0,no
+optimizely.com,adjacent-vendor,llm,experimentation/DXP,high,1,0,1,0,no
+paper-republic.com,adjacent-vendor,llm,"leather notebooks — physical stationery, unrelated sense of the term",high,1,1,1,1,no
+pimberly.com,adjacent-vendor,llm,PIM,high,1,0,1,0,no
+quora.com,ugc,exact,user-generated content platform,high,1,0,1,0,no
+reportei.com,adjacent-vendor,llm,marketing reporting SaaS,high,1,0,1,0,no
+saleslayer.com,adjacent-vendor,llm,PIM,high,1,0,1,0,yes
+selecthub.com,review-platform,llm,software selection directory (cited page is a product profile),high,1,0,1,0,no
+sigmasolve.com,adjacent-vendor,llm,software engineering services,high,1,0,1,0,no
+smackcoders.com,adjacent-vendor,llm,WordPress plugins,high,1,0,1,0,no
+socialcommerceclub.com,adjacent-vendor,llm,TikTok Shop agency,high,1,0,1,0,no
+socialsurgemarketing.com,adjacent-vendor,llm,digital marketing agency,high,1,0,1,0,no
+softwareadvice.com,review-platform,exact,software review directory / listing platform,high,1,0,1,0,yes
+softwareadvice.com.au,review-platform,heuristic,country/locale variant of a tracked review directory,high,1,0,1,0,no
+softwarefinder.com,review-platform,llm,software review directory,high,1,0,1,0,yes
+sproutsocial.com,adjacent-vendor,llm,social media management,high,1,0,1,0,no
+statista.com,independent-editorial,llm,statistics publisher,high,1,1,1,1,no
+storyblok.com,adjacent-vendor,llm,headless CMS,high,1,0,1,0,no
+stylitics.com,adjacent-vendor,llm,retail AI outfitting/imagery,high,1,0,1,0,no
+sugarpixels.com,adjacent-vendor,llm,web design agency,high,1,0,1,0,no
+support.publitas.com,brand-owned,exact,"Publitas's own domain — the brand, not a third party",high,1,0,1,0,no
+swifdoo.com,adjacent-vendor,llm,PDF editor,high,1,0,1,0,yes
+syndeca.com,adjacent-vendor,llm,"shoppable content/media layer — adjacent to shoppable catalogs, not a catalog maker",high,1,0,1,0,no
+technologymagazine.com,independent-editorial,llm,trade publication,high,1,0,1,0,no
+tecnosoluciones.com,adjacent-vendor,llm,web/digital services provider,high,1,0,1,0,no
+thenumbersmith.co.uk,adjacent-vendor,llm,cloud accounting practice,high,1,0,1,0,no
+thewisemarketer.com,independent-editorial,llm,loyalty-marketing trade publication,high,1,0,1,0,no
+unbounce.com,adjacent-vendor,llm,landing-page builder,high,1,0,1,0,no
+walsworth.com,adjacent-vendor,llm,commercial printer,high,1,0,1,0,no
+webaholics.ai,adjacent-vendor,llm,AI marketing agency,high,1,0,1,0,no
+weloveweb.eu,adjacent-vendor,llm,marketing & design agency,high,1,0,1,0,no
+wisepim.com,adjacent-vendor,llm,PIM/AI catalog enrichment,high,1,0,1,0,no
+worldmetrics.org,independent-editorial,llm,AI-generated market-statistics content farm (same template),medium,1,0,1,0,no
+yesoptimist.com,adjacent-vendor,llm,B2B SaaS SEO agency,high,1,0,1,0,no
+yo-kart.com,adjacent-vendor,llm,multi-vendor marketplace software,high,1,0,1,0,no
+youngurbanproject.com,adjacent-vendor,llm,upskilling course provider,high,1,0,1,0,no
+zanfia.com,adjacent-vendor,llm,creator-business platform,high,1,0,1,0,no
+aiapps2go.com,review-platform,llm,"AI app directory (300+ products, 20+ categories) — listing surface",high,0,0,0,0,yes
+nerdisa.com,review-platform,llm,business-software discovery directory,high,0,0,0,0,yes
+tenorshare.com,adjacent-vendor,llm,PDF/data-recovery software utility vendor,high,0,0,0,0,yes
+toolradar.com,review-platform,llm,"B2B software pricing/reviews/comparison directory, 9,000+ tools",high,0,0,0,0,yes
