@@ -12,26 +12,35 @@ denominator **without making a further engine call**.
 
 ## What's here, and what isn't
 
-**Included:** the full stored corpus from the measurement run, the analysis scripts that produced
-each figure in the report, and the exhibits those scripts feed.
+**Included:** the full stored corpus from the measurement run, the 20-prompt panel and the tracker
+configuration that produced it, the analysis scripts behind each figure in the report, and the
+exhibits those scripts feed.
 
 **Not included:** the two systems that generated the corpus — a buyer-message miner and a
 multi-engine GEO tracker. Both are pre-existing tooling I maintain across brands; Publitas is one
-tenant in the tracker's brand directory, not a one-off build. Their architecture is documented
-below in enough detail to evaluate the method, and I'm happy to walk through the running code
-live.
+tenant in the tracker's brand directory, not a one-off build. What's vendored here is that
+tenant's inputs and outputs, not the engine that runs them. The architecture is documented below
+in enough detail to evaluate the method, and I'm happy to walk through the running code live.
 
 ---
 
 ## Repository map
 
 ```
-analysis/     analysis scripts — each one is named against the figure it produces
-data/         the stored corpus: answers, citations, stance judgements, classifications
-exhibits/     derived working documents referenced by the report
+analysis/         analysis scripts — each one is named against the figure it produces
+tracker/
+  queries.md      the 20-prompt panel, grouped by intent and annotated with its sourcing layer
+  config.yaml     tracker configuration: engines, judge, competitor set, samples per prompt
+  baseline/       the stored corpus: 180 answers, citations, stance judgements, aggregates
+data/             mining summaries, presence audits, source-owner classifications
+exhibits/         derived working documents referenced by the report
 DELIVERABLE.md
 README.md
 ```
+
+`tracker/` is a verbatim copy of this brand's directory in the GEO tracker, vendored so the
+repository stands alone. The scripts in `analysis/` read `tracker/baseline/` by default; set
+`BASELINE_DIR` to point them at a later run.
 
 ---
 
@@ -49,7 +58,9 @@ Search was forced on both LLM engines (`tool_choice`) so the three run under com
 instructions. Real consumer sessions trigger search less often, so retrieval rates here are an
 upper bound.
 
-**Denominators.** 4 of the 20 prompts are branded (they name a vendor). Of the remaining 153
+**Denominators.** 3 of the 20 prompts are branded (they name Publitas) — the two `comparison`
+prompts and one `skeptic` prompt; see [`tracker/queries.md`](./tracker/queries.md). Of the
+remaining 153
 non-branded answers, **148** scored at least one vendor — that is the denominator for every
 recommendation figure. Citation figures use **738 non-branded citations**. Branded prompts flatter
 publitas.com badly, so they're excluded throughout rather than blended. Any figure in the report
@@ -71,8 +82,9 @@ Extracts buyer language from review corpora across Publitas and its competitor s
 each extracted passage by type: stated product strength, switching trigger, objection, and the
 vocabulary buyers use to describe the problem before they know vendor names.
 
-Its output is not the report — it's the **prompt panel**. The 20 tracked prompts were built in
-four independent layers so no single source dictates the panel:
+Its output is not the report — it's the **prompt panel**, reproduced in full in
+[`tracker/queries.md`](./tracker/queries.md). The 20 tracked prompts were built in four
+independent layers so no single source dictates the panel:
 
 1. **Review mining** — buyer language from vendor review corpora (8 prompts)
 2. **Category scaffolding** — the market's own taxonomy and competitor set (6 prompts)
@@ -131,15 +143,18 @@ reaching a human carries the answer and source page that triggered it.
 
 | Artefact | What's in it |
 |---|---|
-| `data/raw_{engine}_*.jsonl` | 180 stored answers — sub-queries, consulted pages, citations, judge output, full text |
-| `data/baseline_{engine}_2026-08-03.csv` | Citation-level rows carrying `branded` and `intent_group` — the denominator system used throughout the report |
-| `data/stance_by_vendor.csv` | 853 vendor-mentions, each scored and carrying a verbatim evidence quote |
-| `data/agg_fanout_source_map_*.csv` | Unique non-vendor pages typed per URL — raw input to the off-page queue |
-| `data/agg_gap_queries_*.csv` | The 13 queries where Publitas is neither cited nor mentioned |
-| `data/owner_classification_*.csv` | 199 cited domains classified by owner across six classes |
+| `tracker/queries.md` | The 20-prompt panel as run, by intent group and sourcing layer |
+| `tracker/config.yaml` | Engines, judge, competitor set, three samples per prompt |
+| `tracker/baseline/raw_{engine}_*.jsonl` | 180 stored answers — sub-queries, consulted pages, citations, judge output, full text |
+| `tracker/baseline/baseline_{engine}_2026-08-03.csv` | Citation-level rows carrying `branded` and `intent_group` — the denominator system used throughout the report |
+| `tracker/baseline/stance_by_vendor.csv` | 853 vendor-mentions, each scored and carrying a verbatim evidence quote |
+| `tracker/baseline/agg_fanout_source_map_*.csv` | Unique non-vendor pages typed per URL — raw input to the off-page queue |
+| `tracker/baseline/agg_gap_queries_*.csv` | The 13 queries where Publitas is neither cited nor mentioned |
+| `data/source-owner-classification-2026-08-04.csv` | 199 cited domains classified by owner across six classes |
 | `data/presence-audit-2026-08-04.csv` | Top-100 fan-out pages, presence flag, and the manual-verification flag |
 | `analysis/abc_funnel.py` | Separates consulted / cited / recommended as three distinct events (n=102 — Google exposes no retrieval list) |
 | `analysis/rec_vs_citation.py` | Whether citation predicts recommendation, and where it doesn't |
+| `analysis/rec_vs_citation_primary.py` | The same test restricted to the *lead* recommendation |
 | `analysis/docs_control.py` | Documentation retrieval rates, Publitas vs competitors |
 | `exhibits/on-page-structural-diff.md` | `/digital-catalog/` against the competitor pages winning category-entry citations, verified in the rendered DOM |
 | `exhibits/head-term-rankings.md` | Category head terms split by definitional vs tool-purchase intent |
@@ -177,15 +192,19 @@ direction. Several first-draft findings were removed rather than hedged or rever
 
 ## Running the analysis
 
-The scripts in `analysis/` read from `data/` and were run against the stored corpus, not live
-engines — no API credentials are needed to reproduce any figure in the report.
+The scripts in `analysis/` read from `tracker/baseline/` and were run against the stored corpus,
+not live engines — no API credentials and no dependencies are needed to reproduce any figure in
+the report. All four are Python 3 standard library only.
 
 ```bash
-pip install -r requirements.txt
-python analysis/abc_funnel.py
+python3 analysis/abc_funnel.py
+python3 analysis/rec_vs_citation.py
+python3 analysis/rec_vs_citation_primary.py
+python3 analysis/docs_control.py
 ```
 
-`.env.example` lists the variables the collection layer uses. Nothing in `analysis/` requires them.
+`tracker/config.yaml` names the environment variables the collection layer uses
+(`ZEN_API_KEY`, `ANTHROPIC_API_KEY`, DataForSEO credentials). Nothing in `analysis/` requires them.
 
 ---
 

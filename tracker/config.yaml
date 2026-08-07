@@ -1,0 +1,88 @@
+brand:
+  name: Publitas
+  aliases: [publitas, "publitas.com"]
+  domain: publitas.com
+  description: >-
+    B2B SaaS that turns PDF catalogs and print leaflets into shoppable digital
+    catalogs for retail and ecommerce brands, with product tagging, feed
+    integration and engagement analytics. Amsterdam-based. Sells to retail
+    marketing / ecommerce teams, not to consumers or individual designers.
+  category: "digital catalog / flipbook software (B2B SaaS)"
+
+# The decided competitor set (see the assignment's CLAUDE.md). The judge also
+# free-text captures any OTHER vendor named in an answer under
+# `competitors_mentioned`, so adjacent players that keep surfacing in probe runs
+# (FlipHTML5, Heyzine, Publuu, DCatalog, Yumpu, Zenflip) are still recorded —
+# they just don't get their own share-of-citation row.
+competitors:
+  - name: iPaper
+    aliases: [ipaper, "i-paper"]
+  - name: Flipsnack
+    aliases: [flipsnack]
+  - name: FlippingBook
+    aliases: [flippingbook, "flipping book"]
+  - name: Foleon
+    aliases: [foleon]
+  - name: Issuu
+    aliases: [issuu]
+  - name: Paperturn
+    aliases: [paperturn, "paper turn"]
+  # Added 2026-08-04: both outperform Publitas in AI answers despite not being in
+  # the brief's original set. FlipHTML5 24.2% mean mention / 19.0% recommendation
+  # share; Publuu 20.3% / 17.6% and #1 in G2's Flipbook category by review volume
+  # (556). iPaper, which IS in the original set, ranks last at 8.5%.
+  - name: FlipHTML5
+    aliases: [fliphtml5, "flip html5", "flip-html5"]
+  - name: Publuu
+    aliases: [publuu]
+
+# Default engine: ChatGPT-family via OpenCode Zen (the project's own OpenAI key
+# is out of credits). `include_sources` requests
+# web_search_call.action.sources — without it the retrieved-page list comes back
+# null and only CITED pages are visible.
+model:
+  provider: openai
+  name: gpt-5.4-mini
+  base_url: https://opencode.ai/zen/v1
+  api_key_env: ZEN_API_KEY
+  search_context_size: medium
+  include_sources: true
+  system_prompt: &search_system >-
+    You are a web-search answer engine. Always search the web before answering.
+    Answer the question directly with specific named product recommendations.
+    Never ask the user a clarifying question.
+  user_location:
+    country: US
+
+# The LLM judge is independent of the engine under test. glm-5.2 verified
+# working with response_format=json_object on Zen.
+# NB: deepseek-v4-flash-free REJECTS json_object (400) — do not use it here.
+judge:
+  provider: openai
+  name: glm-5.2
+  base_url: https://opencode.ai/zen/v1
+  api_key_env: ZEN_API_KEY
+
+engines:
+  claude:
+    provider: anthropic
+    name: claude-sonnet-4-5-20250929
+    api_key_env: ANTHROPIC_API_KEY
+    max_uses: 5
+    max_tokens: 2000
+    force_search: true
+    system_prompt: *search_system
+    user_location:
+      country: US
+
+  aio:
+    provider: dataforseo
+    name: google-ai-overview
+    location_name: United States
+    language_code: en
+    device: desktop
+    load_async_ai_overview: true
+
+run:
+  samples_per_prompt: 3
+  capture_search_queries: true

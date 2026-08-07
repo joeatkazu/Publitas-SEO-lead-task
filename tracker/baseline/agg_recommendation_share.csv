@@ -1,0 +1,277 @@
+vendor,engine,responses,mentioned,mention_share_pct,recommended,recommendation_share_pct,primary,foil
+Flipsnack,anthropic/claude-sonnet-4-5-20250929,51,30,58.8,30,58.8,5,0
+Flipsnack,dataforseo/google-ai-overview,51,34,66.7,31,60.8,2,0
+Flipsnack,openai/gpt-5.4-mini,51,20,39.2,19,37.3,12,0
+Publitas,anthropic/claude-sonnet-4-5-20250929,51,19,37.3,19,37.3,12,0
+Publitas,dataforseo/google-ai-overview,51,12,23.5,11,21.6,1,0
+Publitas,openai/gpt-5.4-mini,51,14,27.5,13,25.5,7,0
+FlippingBook,anthropic/claude-sonnet-4-5-20250929,51,20,39.2,16,31.4,0,0
+FlippingBook,dataforseo/google-ai-overview,51,22,43.1,16,31.4,0,0
+FlippingBook,openai/gpt-5.4-mini,51,7,13.7,5,9.8,2,0
+DCatalog,anthropic/claude-sonnet-4-5-20250929,51,15,29.4,15,29.4,1,0
+DCatalog,dataforseo/google-ai-overview,51,16,31.4,12,23.5,0,0
+DCatalog,openai/gpt-5.4-mini,51,8,15.7,7,13.7,1,0
+FlipHTML5,anthropic/claude-sonnet-4-5-20250929,51,4,7.8,2,3.9,0,0
+FlipHTML5,dataforseo/google-ai-overview,51,17,33.3,14,27.5,0,0
+FlipHTML5,openai/gpt-5.4-mini,51,15,29.4,13,25.5,5,0
+Publuu,anthropic/claude-sonnet-4-5-20250929,51,13,25.5,13,25.5,1,0
+Publuu,dataforseo/google-ai-overview,51,6,11.8,5,9.8,0,1
+Publuu,openai/gpt-5.4-mini,51,10,19.6,9,17.6,0,0
+Paperturn,anthropic/claude-sonnet-4-5-20250929,51,14,27.5,14,27.5,0,0
+Paperturn,dataforseo/google-ai-overview,51,8,15.7,5,9.8,0,0
+Paperturn,openai/gpt-5.4-mini,51,8,15.7,6,11.8,1,0
+Heyzine,anthropic/claude-sonnet-4-5-20250929,51,8,15.7,8,15.7,3,0
+Heyzine,dataforseo/google-ai-overview,51,8,15.7,7,13.7,0,0
+Heyzine,openai/gpt-5.4-mini,51,7,13.7,5,9.8,1,0
+Issuu,anthropic/claude-sonnet-4-5-20250929,51,8,15.7,1,2.0,0,6
+Issuu,dataforseo/google-ai-overview,51,11,21.6,4,7.8,0,6
+Issuu,openai/gpt-5.4-mini,51,22,43.1,10,19.6,0,6
+iPaper,anthropic/claude-sonnet-4-5-20250929,51,12,23.5,9,17.6,1,3
+iPaper,dataforseo/google-ai-overview,51,8,15.7,4,7.8,0,3
+iPaper,openai/gpt-5.4-mini,51,3,5.9,0,0.0,0,3
+Fliplink,anthropic/claude-sonnet-4-5-20250929,51,6,11.8,6,11.8,0,0
+Fliplink,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Fliplink,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+3D Issue,anthropic/claude-sonnet-4-5-20250929,51,3,5.9,3,5.9,0,0
+3D Issue,dataforseo/google-ai-overview,51,3,5.9,3,5.9,0,0
+3D Issue,openai/gpt-5.4-mini,51,2,3.9,1,2.0,0,0
+AnyFlip,anthropic/claude-sonnet-4-5-20250929,51,2,3.9,2,3.9,0,0
+AnyFlip,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+AnyFlip,openai/gpt-5.4-mini,51,3,5.9,3,5.9,0,0
+Zenflip,anthropic/claude-sonnet-4-5-20250929,51,6,11.8,5,9.8,0,0
+Zenflip,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Zenflip,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Catalogy,anthropic/claude-sonnet-4-5-20250929,51,3,5.9,3,5.9,0,0
+Catalogy,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Catalogy,openai/gpt-5.4-mini,51,1,2.0,1,2.0,1,0
+Plytix,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+Plytix,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Plytix,openai/gpt-5.4-mini,51,3,5.9,2,3.9,0,0
+Flipbooks AI,anthropic/claude-sonnet-4-5-20250929,51,3,5.9,3,5.9,3,0
+Flipbooks AI,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Flipbooks AI,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Pimcore,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+Pimcore,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Pimcore,openai/gpt-5.4-mini,51,1,2.0,1,2.0,1,0
+Sales Layer,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Sales Layer,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Sales Layer,openai/gpt-5.4-mini,51,3,5.9,3,5.9,0,0
+PubHTML5,anthropic/claude-sonnet-4-5-20250929,51,2,3.9,2,3.9,0,0
+PubHTML5,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+PubHTML5,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Catalog Machine,anthropic/claude-sonnet-4-5-20250929,51,2,3.9,2,3.9,0,0
+Catalog Machine,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Catalog Machine,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+FlippingBook Online,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+FlippingBook Online,dataforseo/google-ai-overview,51,3,5.9,3,5.9,0,0
+FlippingBook Online,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Akeneo,anthropic/claude-sonnet-4-5-20250929,51,2,3.9,2,3.9,0,0
+Akeneo,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Akeneo,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Foleon,anthropic/claude-sonnet-4-5-20250929,51,3,5.9,3,5.9,0,0
+Foleon,dataforseo/google-ai-overview,51,2,3.9,0,0.0,0,0
+Foleon,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Yumpu,anthropic/claude-sonnet-4-5-20250929,51,3,5.9,3,5.9,0,0
+Yumpu,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Yumpu,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+CM: Catalog2Cart,anthropic/claude-sonnet-4-5-20250929,51,3,5.9,3,5.9,0,0
+CM: Catalog2Cart,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+CM: Catalog2Cart,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+XC Digital Flyers,anthropic/claude-sonnet-4-5-20250929,51,4,7.8,3,5.9,0,0
+XC Digital Flyers,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+XC Digital Flyers,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Zmags,anthropic/claude-sonnet-4-5-20250929,51,3,5.9,3,5.9,0,0
+Zmags,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Zmags,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Veopage,anthropic/claude-sonnet-4-5-20250929,51,3,5.9,3,5.9,0,0
+Veopage,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Veopage,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Flowpaper,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Flowpaper,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Flowpaper,openai/gpt-5.4-mini,51,2,3.9,2,3.9,0,0
+Calaméo,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+Calaméo,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Calaméo,openai/gpt-5.4-mini,51,1,2.0,1,2.0,1,0
+RELAYTO AI,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,0,0.0,0,0
+RELAYTO AI,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+RELAYTO AI,openai/gpt-5.4-mini,51,2,3.9,2,3.9,0,0
+Joomag,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,0,0.0,0,0
+Joomag,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Joomag,openai/gpt-5.4-mini,51,3,5.9,2,3.9,0,0
+Adobe Experience Manager,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe Experience Manager,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Adobe Experience Manager,openai/gpt-5.4-mini,51,1,2.0,1,2.0,1,0
+Contentful,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Contentful,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Contentful,openai/gpt-5.4-mini,51,2,3.9,2,3.9,0,0
+Productsup,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Productsup,dataforseo/google-ai-overview,51,2,3.9,2,3.9,0,0
+Productsup,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Adobe InDesign + Acrobat,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe InDesign + Acrobat,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Adobe InDesign + Acrobat,openai/gpt-5.4-mini,51,1,2.0,1,2.0,1,0
+Adobe Dynamic Media Classic eCatalog,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe Dynamic Media Classic eCatalog,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Adobe Dynamic Media Classic eCatalog,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Adobe Commerce,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe Commerce,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Adobe Commerce,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+inSitu Sales,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+inSitu Sales,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+inSitu Sales,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Catsy,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Catsy,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Catsy,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Adobe (Experience Manager / Experience Cloud / Experience Platform),anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe (Experience Manager / Experience Cloud / Experience Platform),dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Adobe (Experience Manager / Experience Cloud / Experience Platform),openai/gpt-5.4-mini,51,1,2.0,1,2.0,1,0
+Adobe Experience Manager / Adobe's content stack,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe Experience Manager / Adobe's content stack,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Adobe Experience Manager / Adobe's content stack,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+FlipBuilder / Flip PDF Professional,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+FlipBuilder / Flip PDF Professional,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+FlipBuilder / Flip PDF Professional,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+XC Digital Flyer,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+XC Digital Flyer,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+XC Digital Flyer,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Scribe.rip,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Scribe.rip,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Scribe.rip,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+B2B Wave,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+B2B Wave,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+B2B Wave,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Surpass,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Surpass,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Surpass,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Sitecore Experience Platform / Sitecore Content Hub,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Sitecore Experience Platform / Sitecore Content Hub,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Sitecore Experience Platform / Sitecore Content Hub,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Contentstack,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Contentstack,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Contentstack,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Bloomreach Content,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Bloomreach Content,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Bloomreach Content,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Optimizely,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Optimizely,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Optimizely,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+HubSpot Content Hub,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+HubSpot Content Hub,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+HubSpot Content Hub,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Uberflip,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Uberflip,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Uberflip,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Adobe Experience Manager / Adobe Experience Platform,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe Experience Manager / Adobe Experience Platform,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Adobe Experience Manager / Adobe Experience Platform,openai/gpt-5.4-mini,51,1,2.0,1,2.0,1,0
+Sitecore Digital Experience Platform / SitecoreAI,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Sitecore Digital Experience Platform / SitecoreAI,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Sitecore Digital Experience Platform / SitecoreAI,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Optimizely One / Optimizely Content Marketing Platform,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Optimizely One / Optimizely Content Marketing Platform,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Optimizely One / Optimizely Content Marketing Platform,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Jahia DXP,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Jahia DXP,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Jahia DXP,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Liferay DXP,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Liferay DXP,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Liferay DXP,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Kentico,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Kentico,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Kentico,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Umbraco,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Umbraco,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Umbraco,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Fluidbook,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Fluidbook,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Fluidbook,openai/gpt-5.4-mini,51,1,2.0,1,2.0,0,0
+Yumpu Publishing,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Yumpu Publishing,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Yumpu Publishing,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+YUMPU Publishing,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+YUMPU Publishing,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+YUMPU Publishing,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Sitecore Content Hub,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Sitecore Content Hub,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Sitecore Content Hub,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Bloomreach,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Bloomreach,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Bloomreach,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Optimizely One,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Optimizely One,dataforseo/google-ai-overview,51,1,2.0,1,2.0,0,0
+Optimizely One,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+LAGO by Comosoft,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+LAGO by Comosoft,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+LAGO by Comosoft,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Akeneo PIM,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+Akeneo PIM,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Akeneo PIM,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Hygraph,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+Hygraph,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Hygraph,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Contentserv,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+Contentserv,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Contentserv,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+DDS Acadia Platform,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+DDS Acadia Platform,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+DDS Acadia Platform,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+On Page,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+On Page,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+On Page,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+3D Issue (Experios),anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+3D Issue (Experios),dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+3D Issue (Experios),openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+3D Issue Experios,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+3D Issue Experios,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+3D Issue Experios,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+YUDU,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,1,2.0,0,0
+YUDU,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+YUDU,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+3Dsellers,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+3Dsellers,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+3Dsellers,openai/gpt-5.4-mini,51,1,2.0,0,0.0,0,0
+Adobe Acrobat,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe Acrobat,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Adobe Acrobat,openai/gpt-5.4-mini,51,1,2.0,0,0.0,0,0
+Magento,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Magento,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Magento,openai/gpt-5.4-mini,51,1,2.0,0,0.0,0,0
+Flip PDF Plus Pro,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Flip PDF Plus Pro,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Flip PDF Plus Pro,openai/gpt-5.4-mini,51,1,2.0,0,0.0,0,0
+Marq,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Marq,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Marq,openai/gpt-5.4-mini,51,1,2.0,0,0.0,0,0
+Adobe Express,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Adobe Express,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Adobe Express,openai/gpt-5.4-mini,51,1,2.0,0,0.0,0,0
+FlipbooksAI,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+FlipbooksAI,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+FlipbooksAI,openai/gpt-5.4-mini,51,1,2.0,0,0.0,0,0
+Real3D Flipbook,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Real3D Flipbook,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Real3D Flipbook,openai/gpt-5.4-mini,51,1,2.0,0,0.0,0,0
+Visual Paradigm,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Visual Paradigm,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Visual Paradigm,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Realview Digital,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Realview Digital,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Realview Digital,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Fliplify,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Fliplify,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Fliplify,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Calameo,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Calameo,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Calameo,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Redpepper Digital,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Redpepper Digital,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Redpepper Digital,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+eMagazines,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+eMagazines,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+eMagazines,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Antares,anthropic/claude-sonnet-4-5-20250929,51,0,0.0,0,0.0,0,0
+Antares,dataforseo/google-ai-overview,51,1,2.0,0,0.0,0,0
+Antares,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0
+Catalog2Cart,anthropic/claude-sonnet-4-5-20250929,51,1,2.0,0,0.0,0,0
+Catalog2Cart,dataforseo/google-ai-overview,51,0,0.0,0,0.0,0,0
+Catalog2Cart,openai/gpt-5.4-mini,51,0,0.0,0,0.0,0,0

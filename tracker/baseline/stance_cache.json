@@ -1,0 +1,5475 @@
+{
+ "openai/gpt-5.4-mini|How can I update my digital catalog without breaking the shared link or losing my product tags?|1": [
+  {
+   "name": "Catalogy",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "([catalogy.com](https://www.catalogy.com/digital-catalog-software)) ... use a persistent share link, connect the catalog to a product feed / spreadsheet / PIM /"
+  },
+  {
+   "name": "3Dsellers",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "([help.3dsellers.com](https://help.3dsellers.com/en/articles/15393915-how-to-edit-product-tags-in-bulk-product-catalog))"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "I can also give you a step-by-step process for a specific platform like Shopify, Flipsnack, Catalogy, Lightspeed, or 3Dsellers."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "I can also give you a step-by-step process for a specific platform like Shopify, Flipsnack, Catalogy, Lightspeed, or 3Dsellers."
+  },
+  {
+   "name": "Lightspeed",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "I can also give you a step-by-step process for a specific platform like Shopify, Flipsnack, Catalogy, Lightspeed, or 3Dsellers."
+  }
+ ],
+ "openai/gpt-5.4-mini|How can I update my digital catalog without breaking the shared link or losing my product tags?|2": [],
+ "openai/gpt-5.4-mini|How can I update my digital catalog without breaking the shared link or losing my product tags?|3": [
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If you\u2019re using **Shopify Digital Downloads / Shopify\u2019s Digital Products app**, the safest way to update your digital catalog..."
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas: built for shoppable digital catalogs with product links, shop-now buttons, videos, and interactive elements."
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Issuu: converts PDFs into interactive flipbooks and supports clickable/shoppable links."
+  },
+  {
+   "name": "Adobe Acrobat",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Use Adobe Acrobat or InDesign to add clickable links/buttons directly into the PDF..."
+  },
+  {
+   "name": "Adobe InDesign",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If you need a simple, branded PDF with clickable product URLs: use Adobe InDesign + Acrobat."
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|2": [
+  {
+   "name": "FlippingBook",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Fastest no-code option: FlippingBook \u2026 Convert to an interactive catalog in FlippingBook or Publuu"
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best for \u201cshoppable\u201d product tagging: Publuu \u2026 Convert to an interactive catalog in FlippingBook or Publuu"
+  },
+  {
+   "name": "Issuu",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Tools like FlippingBook, Publuu, and Issuu are built for this and specifically support clickable links"
+  },
+  {
+   "name": "Adobe Acrobat",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "good for navigation and external product links, but it\u2019s less compelling than a true shoppable web catalog"
+  },
+  {
+   "name": "InDesign",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Design the catalog in InDesign or similar"
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|3": [
+  {
+   "name": "Adobe InDesign + Acrobat",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "the fastest and most maintainable path is: Design in InDesign \u2192 add hyperlinks/hotspots \u2192 export interactive PDF \u2192 link each product to its store page."
+  },
+  {
+   "name": "Adobe Dynamic Media Classic eCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "best if you want a browser-based shoppable catalog with hotspots and page-linked navigation."
+  },
+  {
+   "name": "Adobe Commerce",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "best if your store runs on Magento/Adobe Commerce and you want catalog generation tied to your product data."
+  },
+  {
+   "name": "Magento",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "best if your store runs on Magento/Adobe Commerce and you want catalog generation tied to your product data."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "a no-code setup for Shopify, WooCommerce, or Adobe Commerce."
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "a no-code setup for Shopify, WooCommerce, or Adobe Commerce."
+  }
+ ],
+ "openai/gpt-5.4-mini|How do I track conversions and sales from a digital catalog or flipbook in GA4?|1": [
+  {
+   "name": "GA4 / Google Analytics 4",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "To track conversions and sales from a digital catalog or flipbook in GA4, treat the catalog like a mini ecommerce experience"
+  },
+  {
+   "name": "Google Tag Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Use Google Tag Manager if the tool exposes click/page events or dataLayer hooks"
+  },
+  {
+   "name": "gtag.js",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "you must implement those events yourself, either with gtag.js or Google Tag Manager"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If the catalog sends people to Shopify, WooCommerce, or another checkout, track:"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If the catalog sends people to Shopify, WooCommerce, or another checkout, track:"
+  }
+ ],
+ "openai/gpt-5.4-mini|How do I track conversions and sales from a digital catalog or flipbook in GA4?|2": [
+  {
+   "name": "GA4 (Google Analytics 4)",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "To track conversions and sales from a digital catalog or flipbook in GA4, treat the flipbook like a storefront and send GA4 ecommerce events"
+  },
+  {
+   "name": "Google Tag Manager (GTM)",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "you may need GTM, embedded JavaScript, or server-side Measurement Protocol to send events to GA4."
+  }
+ ],
+ "openai/gpt-5.4-mini|How do I track conversions and sales from a digital catalog or flipbook in GA4?|3": [
+  {
+   "name": "Google Analytics 4 (GA4)",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "To track conversions and sales from a digital catalog or flipbook in GA4, treat the flipbook like a storefront experience"
+  },
+  {
+   "name": "Google Tag Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "you can send these via Google tag, Google Tag Manager, or Measurement Protocol."
+  },
+  {
+   "name": "Measurement Protocol",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "GA4 supports Measurement Protocol for sending events server-to-server."
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best overall: **Publitas** Publitas stands out for **enterprise-scale, shoppable digital catalogs** and feed-driven publishing."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best for fast catalog production at scale: **FlipHTML5** FlipHTML5 is a very strong runner-up if your priority is **bulk creation and scheduled publishing of ma"
+  },
+  {
+   "name": "inSitu Sales",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Best if catalogs are tied to sales operations: **inSitu Sales** If your catalogs are part of a broader wholesale or field-sales workflow, **inSitu Sales** is wo"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "supports integrations with major commerce platforms like Shopify and Magento"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "supports integrations with major commerce platforms like Shopify and Magento"
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|2": [
+  {
+   "name": "Pimcore",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "the strongest all-around choice is Pimcore. It\u2019s built for multi-catalog management"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "best if scheduling and publishing finished digital catalogs is the priority"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "best for interactive/shoppable digital catalogs at scale"
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|3": [
+  {
+   "name": "DCatalog",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best overall for your use case: DCatalog... If you want the best digital catalog platform specifically: DCatalog."
+  },
+  {
+   "name": "Plytix",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "better if you're really managing product data across many catalogs and channels... top-rated catalog-management/PIM option"
+  },
+  {
+   "name": "Sales Layer",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "good if you need automated distribution of catalog data to multiple channels and marketplaces."
+  },
+  {
+   "name": "Catsy",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "strong for manufacturers/distributors that need catalog + DAM workflows."
+  }
+ ],
+ "openai/gpt-5.4-mini|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|1": [
+  {
+   "name": "Adobe (Experience Manager / Experience Cloud / Experience Platform)",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Adobe\u2019s enterprise ecosystem is the strongest fit I found: Adobe publishes accessibility conformance information, and its compliance list includes WCAG 2.2 Leve"
+  },
+  {
+   "name": "FlowPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "FlowPaper is the more promising candidate for accessibility among the flipbook vendors I found: it says it orders text in logical reading order so screen reader"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlipHTML5 now has an accessibility feature that extracts text from flipbooks and allows larger text, which is helpful, but again I did not find a formal enterpr"
+  }
+ ],
+ "openai/gpt-5.4-mini|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|2": [
+  {
+   "name": "Adobe Experience Manager / Adobe's content stack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Adobe publishes accessibility conformance information for its products ... makes it a stronger enterprise option than typical consumer flipbook tools."
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Issuu is a major digital publishing/flipbook platform, and it has an accessibility statement ... but you should verify whether the specific reader, embed, and p"
+  },
+  {
+   "name": "accessiBe",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "not a flipbook platform itself, but an accessibility platform that can help with ADA/WCAG compliance efforts around web content and documents"
+  }
+ ],
+ "openai/gpt-5.4-mini|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Flipsnack is the clearest enterprise-oriented option I found that explicitly states its flipbook player and platform are compliant with ADA, WCAG 2.1 AA, Sectio"
+  },
+  {
+   "name": "Issuu",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "A second option is Issuu... but its public accessibility page is more about ongoing accessibility efforts than a clear, explicit ADA/WCAG compliance claim"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Heyzine looks good for flipbooks and digital catalogs, but... I did not find a comparable explicit ADA/WCAG compliance statement"
+  }
+ ],
+ "openai/gpt-5.4-mini|What digital catalog software works best on mobile for retail flyers?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "the strongest pick is **Flipsnack**... best balance of mobile viewing, interactivity, and tracking."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "good if you want a more retail-catalog-focused publishing workflow, though I'd still lean Flipsnack"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "viable alternatives if you mainly want PDF-to-digital flipping"
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "viable alternatives if you mainly want PDF-to-digital flipping"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "viable alternatives if you mainly want PDF-to-digital flipping"
+  }
+ ],
+ "openai/gpt-5.4-mini|What digital catalog software works best on mobile for retail flyers?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "best overall for mobile-friendly flyer/catalog viewing and sharing... start with Flipsnack."
+  },
+  {
+   "name": "FlipBuilder / Flip PDF Professional",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "a solid choice if you want a PDF-to-digital-flyer workflow with mobile-friendly viewing, media embeds, and quick publishing."
+  },
+  {
+   "name": "XC Digital Flyer",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "best if your use case is specifically retail/grocery-style flyers... look hardest at XC Digital Flyer."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "good for branded, interactive catalog experiences if you want a more enterprise-style tool."
+  },
+  {
+   "name": "Plytix",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "better if your 'catalog' is really product-data-driven and you need a PIM/DAM backbone behind the flyer experience."
+  }
+ ],
+ "openai/gpt-5.4-mini|What digital catalog software works best on mobile for retail flyers?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "For retail flyers that need to work well on mobile, the best all-around pick is Flipsnack."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best if you want a simpler \u201cflipbook\u201d style flyer: Publitas or FlipHTML5 \u2014 good for digital flyer-style browsing"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Best if you want a simpler \u201cflipbook\u201d style flyer: Publitas or FlipHTML5 \u2014 good for digital flyer-style browsing"
+  },
+  {
+   "name": "Plytix",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "better for managing product data across channels than for designing mobile flyers themselves."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "solid for interactive digital catalogs, but it\u2019s usually more of a catalog platform than a lightweight mobile flyer tool."
+  }
+ ],
+ "openai/gpt-5.4-mini|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|1": [
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Two good options are **FlippingBook** and **Publuu**."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Two good options are **FlippingBook** and **Publuu**."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "If you want, I can compare **FlippingBook vs Publuu vs Heyzine** specifically for preserving clickable product hotspots."
+  }
+ ],
+ "openai/gpt-5.4-mini|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|2": [
+  {
+   "name": "Paperturn",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Paperturn looks like the best direct fit."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "The safest bets are Paperturn and Flipsnack."
+  },
+  {
+   "name": "Issuu",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Issuu warns that links added through its own in-platform linking tool can be overwritten on re-upload"
+  },
+  {
+   "name": "Publitas",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "the docs I found focus more on replacing pages... than on guaranteeing all manually placed product links survive unchanged"
+  }
+ ],
+ "openai/gpt-5.4-mini|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best fit for \u201cdon\u2019t re-tag my product links\u201d: Flipsnack or FlippingBook, because they explicitly discuss keeping interactions/links when replacing the PDF."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best fit for \u201cdon\u2019t re-tag my product links\u201d: Flipsnack or FlippingBook, because they explicitly discuss keeping interactions/links when replacing the PDF."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "it says you can replace your PDF without changing its direct link."
+  },
+  {
+   "name": "FlipLink",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "it explicitly says you can replace PDF files without breaking shared links and preserve analytics/branding."
+  },
+  {
+   "name": "Issuu",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Issuu warns that links added through its own linking feature can be overwritten during re-uploading, so it\u2019s not the safest choice if preserving built-in produc"
+  }
+ ],
+ "openai/gpt-5.4-mini|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|1": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "If you want an Issuu alternative with no page limits and fewer \u201cpremium-only\u201d gotchas, my top pick is FlipHTML5."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "my top pick is FlipHTML5. Its pricing page shows unlimited page uploads on the Enterprise plan"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "good if you want a simpler, more affordable flipbook tool; it\u2019s often recommended as a low-cost Issuu alternative."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "good for ad-free, professional-looking flipbooks and custom-domain-style branding, though it\u2019s more of a paid business tool than a free one."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "a solid Issuu replacement if you care about analytics and browser-based flipbooks."
+  }
+ ],
+ "openai/gpt-5.4-mini|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|2": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "A strong Issuu alternative with fewer annoying limits is Calam\u00e9o."
+  },
+  {
+   "name": "Calam\u00e9o",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "It\u2019s commonly recommended as a free alternative, and unlike Issuu\u2019s current plans..."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "often a better modern flipbook-style alternative if you care about presentation and embed quality."
+  },
+  {
+   "name": "Scribe.rip",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "best if you want a self-hosted/open-source route and maximum control."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "solid polished alternative, but it is not the cheapest; pricing starts around $26/month and it doesn\u2019t have a free plan."
+  },
+  {
+   "name": "Flip PDF Plus Pro",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "worth considering if you want desktop software, but again it\u2019s a paid tool, not a free-no-limits option."
+  }
+ ],
+ "openai/gpt-5.4-mini|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|3": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "A strong Issuu alternative is FlipHTML5 if you want a tool with a free tier, no obvious page-limit squeeze"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "A strong Issuu alternative is FlipHTML5... Best overall: FlipHTML5"
+  },
+  {
+   "name": "PubHTML5",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "If you want another solid option, PubHTML5 is worth a look. It advertises free flipbook software"
+  },
+  {
+   "name": "AnyFlip",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "AnyFlip is also a reasonable alternative if your priority is getting started cheaply."
+  }
+ ],
+ "openai/gpt-5.4-mini|What are the best alternatives to iPaper for digital catalogs?|1": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "Here are the best iPaper alternatives for digital catalogs right now"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Recent comparison pages and marketplace listings consistently place Publitas at the top for shoppable retail catalogs"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best easy-to-use flipbook creator: Flipsnack \u2014 good for teams that want fast PDF-to-catalog publishing"
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Best for publishing reach / content distribution: Issuu \u2014 widely used for magazines, brochures, and branded content distribution"
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Best simple budget-friendly option: Publuu \u2014 straightforward flipbook experience with lighter setup needs"
+  },
+  {
+   "name": "AnyFlip",
+   "stance": "recommended",
+   "rank": 6,
+   "evidence": "Best for very simple catalogs: Paperturn or AnyFlip \u2014 decent if you mainly need clean online page-flip catalogs"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Best for very simple catalogs: Paperturn or AnyFlip \u2014 decent if you mainly need clean online page-flip catalogs"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Here are the best iPaper alternatives ... FlippingBook, and DCatalog"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 7,
+   "evidence": "Best if you want a more direct iPaper-style comparison: DCatalog \u2014 often listed alongside iPaper in alternative/comparison guides"
+  }
+ ],
+ "openai/gpt-5.4-mini|What are the best alternatives to iPaper for digital catalogs?|2": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "If you're looking for **alternatives to iPaper for digital catalogs**, the strongest options are:"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "best all-around alternative for interactive flipbooks, embedded catalogs, and branded publishing... Best overall: Flipsnack"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "a strong choice if you want **shoppable digital catalogs** with SEO, analytics, automation, and distribution tools"
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "a commonly recommended flipbook-style alternative on G2 for turning PDFs into interactive publications"
+  },
+  {
+   "name": "RELAYTO AI",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "useful if you want a broader content-experience platform rather than just a basic catalog viewer"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "good for businesses that want to turn PDFs into interactive online catalogs, especially in retail, wholesale, and publishing"
+  },
+  {
+   "name": "Sales Layer",
+   "stance": "recommended",
+   "rank": 6,
+   "evidence": "better if your \u201ccatalog\u201d needs are more product-data/PIM oriented than presentation-oriented"
+  }
+ ],
+ "openai/gpt-5.4-mini|What are the best alternatives to iPaper for digital catalogs?|3": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "Here are the strongest iPaper alternatives for digital catalogs right now:"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "probably the closest all-around alternative... Best overall: Flipsnack"
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "a good choice if your main goal is polished digital flipbooks and easy sharing... Best for simple flipbooks: Publuu"
+  },
+  {
+   "name": "RELAYTO AI",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "worth considering if you want more of a content-experience / interactive document tool rather than a pure catalog builder"
+  },
+  {
+   "name": "Sales Layer",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "a stronger pick if your \"catalog\" is really part of a broader product information management workflow... Best for product-data-heavy catalogs: Sales Layer"
+  },
+  {
+   "name": "B2B Wave",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "good if you need wholesale/B2B catalog + ordering functionality... Best for B2B wholesale catalogs: B2B Wave"
+  },
+  {
+   "name": "Surpass",
+   "stance": "recommended",
+   "rank": 6,
+   "evidence": "a budget-friendly option with catalog publishing features and relatively strong user ratings on Capterra."
+  }
+ ],
+ "openai/gpt-5.4-mini|Best alternatives to Issuu for a shoppable digital catalog?|1": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "the best Issuu alternatives are"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "best fit for retail/ecommerce catalogs... Best overall for shoppable catalogs: Publitas"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "strong all-around Issuu replacement for interactive catalogs and magazines... Best general Issuu alternative: Flipsnack"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "good if you want a lower-cost flipbook-style catalog with digital sales and multimedia features... Best budget-friendly option"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "solid for clean, branded flipbooks on your own domain; better if you care more about presentation than deep commerce features"
+  },
+  {
+   "name": "Joomag",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "worth considering if you want an enterprise-style content platform with interactive publishing features"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "ranked shortlist by budget, Shopify integration, or ease of use"
+  }
+ ],
+ "openai/gpt-5.4-mini|Best alternatives to Issuu for a shoppable digital catalog?|2": [
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "best overall if you want interactive catalogs with product links, multimedia, and ecommerce-focused features."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "strong choice for retail and shoppable catalogs specifically; G2 highlights it as a shoppable-catalog option"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "good for polished catalog creation and embedding; Capterra comparison shows it's a top Issuu competitor"
+  },
+  {
+   "name": "Joomag",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "better if you want a more complete content platform with catalog-style publishing, lead capture, and marketing features."
+  },
+  {
+   "name": "AnyFlip",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "a lower-cost flipbook-style option if you mainly need a simple online catalog experience."
+  },
+  {
+   "name": "Catalog Machine",
+   "stance": "recommended",
+   "rank": 6,
+   "evidence": "worth a look if your priority is creating product catalogs from inventory/product data rather than magazine-style publishing."
+  },
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "Best alternatives to Issuu for a shoppable digital catalog?"
+  },
+  {
+   "name": "Marq",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "they're usually weaker on built-in ecommerce/shoppable behavior than the options above."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If you want, I can narrow this down to the best 3 for Shopify, best cheap options, or best for B2B wholesale catalogs."
+  }
+ ],
+ "openai/gpt-5.4-mini|Best alternatives to Issuu for a shoppable digital catalog?|3": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "the best Issuu alternatives are:"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "strongest fit for retail/ecommerce catalogs; built around product tagging, shopping links, and catalog-to-store workflows."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "very sales-focused; highlights automatic product-number linking to product pages and ecommerce-ready catalogs."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "good for interactive catalogs with ecommerce-style embeds and broad marketing use"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "better if you want rich interactive features and budget-friendly publishing, with ecommerce features on higher tiers."
+  },
+  {
+   "name": "Joomag",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "better for enterprise content marketing and deeper integrations, though it can be heavier than needed for simple catalog sales."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "solid for product catalogs if you want a simpler flipbook-style experience."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "based on your store platform like Shopify, WooCommerce, or Magento."
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "based on your store platform like Shopify, WooCommerce, or Magento."
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "based on your store platform like Shopify, WooCommerce, or Magento."
+  }
+ ],
+ "openai/gpt-5.4-mini|What is the best flipbook software for retailers in 2026?|1": [
+  {
+   "name": "FlippingBook",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "For retailers in 2026, the best overall flipbook software is FlippingBook."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "best if you want a polished, easy-to-use flipbook tool with broad appeal and strong user ratings."
+  },
+  {
+   "name": "FlowPaper",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "best if you care more about a lightweight, web-first catalog viewer and embedding publications on your site."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "best if you want a simpler PDF-to-flipbook experience with strong review traction."
+  }
+ ],
+ "openai/gpt-5.4-mini|What is the best flipbook software for retailers in 2026?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "For retailers in 2026, the best flipbook software is Flipsnack if you want the strongest all-around mix..."
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Issuu is the best alternative. Issuu explicitly positions its digital catalog and flipbook tools for interactive catalogs..."
+  },
+  {
+   "name": "G2",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "G2\u2019s 2026 flipbook rankings show Flipsnack as a top-rated option..."
+  }
+ ],
+ "openai/gpt-5.4-mini|What is the best flipbook software for retailers in 2026?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "For retailers in 2026, the best overall flipbook software is Publitas."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best for branding + rich interactivity: Flipsnack"
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Best for simple PDF-to-flipbook publishing: Issuu"
+  }
+ ],
+ "openai/gpt-5.4-mini|What are the top-rated content experience platforms for retail marketing teams?|1": [
+  {
+   "name": "Adobe Experience Manager / Adobe Experience Cloud",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Adobe Experience Manager / Adobe Experience Cloud \u2014 consistently strong for enterprise content delivery, omnichannel publishing"
+  },
+  {
+   "name": "Sitecore",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Sitecore \u2014 a strong fit for retail teams that want content, personalization, and commerce-adjacent capabilities in one ecosystem."
+  },
+  {
+   "name": "Optimizely",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Optimizely \u2014 good for retail marketers focused on experimentation, personalization, and content optimization across digital journeys."
+  },
+  {
+   "name": "HubSpot Content Hub",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "HubSpot Content Hub \u2014 best for mid-market retail teams that want easier content operations and marketing automation"
+  },
+  {
+   "name": "Contentstack",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Contentstack \u2014 a modern headless CMS/content experience option that\u2019s often attractive for retail teams needing fast omnichannel"
+  },
+  {
+   "name": "Magnolia DXP",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Magnolia DXP \u2014 a strong enterprise choice for composable content experiences and large retail websites."
+  },
+  {
+   "name": "Acquia Digital Experience Platform",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Acquia Digital Experience Platform \u2014 a good option for retail organizations prioritizing Drupal-based flexibility"
+  }
+ ],
+ "openai/gpt-5.4-mini|What are the top-rated content experience platforms for retail marketing teams?|2": [
+  {
+   "name": "Adobe Experience Manager",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "a leading enterprise option and G2\u2019s current category leader for content experience platforms."
+  },
+  {
+   "name": "Sitecore Experience Platform / Sitecore Content Hub",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "frequently highlighted for data-driven customer experiences and enterprise content operations, which makes it a common retail pick"
+  },
+  {
+   "name": "Contentstack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "commonly recommended in 2026 comparisons as a mid-market-to-enterprise composable option, especially for retail teams"
+  },
+  {
+   "name": "Bloomreach Content",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "often positioned for retail and commerce use cases because it combines content with commerce-oriented experiences and personalization."
+  },
+  {
+   "name": "Optimizely",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "frequently appears in enterprise content experience and digital experience lists, especially when experimentation and optimization matter."
+  },
+  {
+   "name": "Contentful",
+   "stance": "recommended",
+   "rank": 6,
+   "evidence": "a strong composable CMS/CXP choice for retail teams that want developer-friendly flexibility and headless delivery."
+  },
+  {
+   "name": "HubSpot Content Hub",
+   "stance": "recommended",
+   "rank": 7,
+   "evidence": "a good fit for smaller retail marketing teams that want content plus marketing automation in one stack."
+  },
+  {
+   "name": "Uberflip",
+   "stance": "recommended",
+   "rank": 8,
+   "evidence": "often positioned as a marketing content experience platform for centralizing content into more immersive buyer experiences"
+  }
+ ],
+ "openai/gpt-5.4-mini|What are the top-rated content experience platforms for retail marketing teams?|3": [
+  {
+   "name": "Adobe Experience Manager / Adobe Experience Platform",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best overall picks for retail marketing teams: - Enterprise retail personalization: Adobe Experience Platform / AEM."
+  },
+  {
+   "name": "Sitecore Digital Experience Platform / SitecoreAI",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "A strong choice for retail marketers who want AI-assisted content planning, personalization, and governed multi-channel delivery."
+  },
+  {
+   "name": "Optimizely One / Optimizely Content Marketing Platform",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Good for retail teams focused on content operations, experimentation, and marketing workflow."
+  },
+  {
+   "name": "Contentful",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Best for composable retail experiences where marketing teams need flexible headless content delivery across web, app, and commerce touchpoints."
+  },
+  {
+   "name": "Jahia DXP",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "These are also well-reviewed on G2 and can be strong options depending on your stack, especially if you want a more composable or CMS-centric approach"
+  },
+  {
+   "name": "Liferay DXP",
+   "stance": "recommended",
+   "rank": 6,
+   "evidence": "These are also well-reviewed on G2 and can be strong options depending on your stack, especially if you want a more composable or CMS-centric approach"
+  },
+  {
+   "name": "Kentico",
+   "stance": "recommended",
+   "rank": 7,
+   "evidence": "These are also well-reviewed on G2 and can be strong options depending on your stack, especially if you want a more composable or CMS-centric approach"
+  },
+  {
+   "name": "Umbraco",
+   "stance": "recommended",
+   "rank": 8,
+   "evidence": "These are also well-reviewed on G2 and can be strong options depending on your stack, especially if you want a more composable or CMS-centric approach"
+  }
+ ],
+ "openai/gpt-5.4-mini|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is usually the better fit for shoppable ecommerce catalogs"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Flipsnack is stronger if you want a broader, easier-to-use catalog maker with shoppable features."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "integrations like Shopify/Magento in its knowledge base."
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "integrations like Shopify/Magento in its knowledge base."
+  }
+ ],
+ "openai/gpt-5.4-mini|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "For shoppable ecommerce catalogs, I\u2019d generally pick Publitas over Flipsnack."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Flipsnack is solid if you want a broader publishing tool with interactive catalogs, branding, templates, and simpler shopping features"
+  }
+ ],
+ "openai/gpt-5.4-mini|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is the better fit overall."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Choose Flipsnack if you want a more general digital publishing/catalog tool"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "e-commerce product feeds, Shopify integration, product hotspots"
+  }
+ ],
+ "openai/gpt-5.4-mini|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|1": [
+  {
+   "name": "iPaper",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "**Best overall for shoppable retail content: iPaper** if your priority is **retail-specific shoppability, automation from product feeds..."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "**Publitas \u2014 best for enterprise-scale shoppable experience and retail media**"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "**Flipsnack \u2014 best for easier catalog creation on a broader budget range**"
+  }
+ ],
+ "openai/gpt-5.4-mini|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|2": [
+  {
+   "name": "iPaper",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "My pick: iPaper \u2014 iPaper is the most purpose-built for retail shoppable content."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Choose Publitas if you care most about enterprise-grade shoppable publishing, live product data, and a wider \u201cdiscovery commerce\u201d approach."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Choose Flipsnack if you want the easiest all-around catalog creation workflow and still need shoppable features."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "integrations with major ecommerce platforms like Shopify, Magento, and WooCommerce."
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "integrations with major ecommerce platforms like Shopify, Magento, and WooCommerce."
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "integrations with major ecommerce platforms like Shopify, Magento, and WooCommerce."
+  }
+ ],
+ "openai/gpt-5.4-mini|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|3": [
+  {
+   "name": "iPaper",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best overall for shoppable retail content: iPaper \u2014 especially if your priority is catalog-to-cart conversion, retail workflow, and ecommerce integration."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Choose Publitas if you want enterprise shoppable content + personalization + retail media."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Choose Flipsnack if you want an easier all-round catalog tool with shoppable features, but not the deepest retail-commerce focus."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "It does support shoppable content, feed sync, Shopify integration, and bulk catalog generation."
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best free flipbook maker?|1": [
+  {
+   "name": "Heyzine",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "If you want the best free flipbook maker overall right now, I'd pick Heyzine."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "best if you want the strongest all-around feature set and don't mind a freemium model."
+  },
+  {
+   "name": "Publuu",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "the 'free' path appears more limited and leans toward a 14-day free trial rather than a permanently generous free plan."
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best free flipbook maker?|2": [
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "I'd start with FlipHTML5. It's the strongest all-around free option I found... Best pick: FlipHTML5"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "worth a look if you want a simpler PDF-to-flipbook workflow; it has a free version listed on Capterra"
+  },
+  {
+   "name": "Adobe Express",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "useful if you want broader design tools and only occasional flipbook-style work, though it's not as flipbook-focused as FlipHTML5"
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best free flipbook maker?|3": [
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "If you want the best free flipbook maker overall, I'd pick FlipHTML5."
+  },
+  {
+   "name": "Canva",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Canva has a large free template library and no-branding exports, though it's less flipbook-native."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best simple alternative: Heyzine \u2014 good for easy online flipbooks and sharing/embedding."
+  }
+ ],
+ "openai/gpt-5.4-mini|Are flipbooks still popular?|1": [
+  {
+   "name": "Paperturn",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Recent 2026-era coverage from flipbook vendors and publishing tools says they\u2019re being used... ([paperturn.com]"
+  },
+  {
+   "name": "FlipbooksAI",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "...plain web pages, PDFs, or native e-books are still more common. ([blog.flipbooksai.com]"
+  }
+ ],
+ "openai/gpt-5.4-mini|Are flipbooks still popular?|2": [
+  {
+   "name": "Issuu",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Platforms like Issuu continue to market flipbooks as a current product."
+  },
+  {
+   "name": "Statista",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "...with Statista describing continued growth/strong forecasts in the U.S. market."
+  }
+ ],
+ "openai/gpt-5.4-mini|Are flipbooks still popular?|3": [
+  {
+   "name": "FlipHTML5",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Recent 2025 content from flipbook and publishing platforms still highlights active use, new features, and \"popular flipbooks\" sections"
+  },
+  {
+   "name": "3DIssue",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Industry commentary in 2025 frames flipbooks as one option among newer responsive magazine and digital publishing experiences"
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best way to turn a PDF into an online catalog people can browse and shop from?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas \u2014 best if you want a polished, retail-focused, shoppable catalog experience."
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Issuu \u2014 best for a straightforward PDF-to-flipbook workflow with sharing and embedded links."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlipHTML5 \u2014 best if you want lots of catalog creation features and interactivity from a PDF."
+  },
+  {
+   "name": "Adobe Commerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "a commerce platform like Adobe Commerce is the heavier-duty option. It's built for product catalogs... rather than just PDF conversion"
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best way to turn a PDF into an online catalog people can browse and shop from?|2": [
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "strong if you want a polished, shareable catalog with interactive flipbooks and shopping links to your store."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "a good choice if you want a fast \u201cPDF to catalog\u201d workflow with videos, buttons, and product links added to the catalog."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "you\u2019ll typically want it connected to an ecommerce platform like Shopify or your product pages"
+  }
+ ],
+ "openai/gpt-5.4-mini|What's the best way to turn a PDF into an online catalog people can browse and shop from?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "probably the strongest all-around choice if you want a PDF turned into a browse-and-buy catalog."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "solid for browsing, but it's more \"interactive publication\" than full shoppable catalog."
+  },
+  {
+   "name": "Issuu",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "better for publishing/hosting than for true shopping workflows."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "step-by-step setup for Shopify/WooCommerce"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "step-by-step setup for Shopify/WooCommerce"
+  }
+ ],
+ "openai/gpt-5.4-mini|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Flipsnack \u2014 strongest accessibility positioning; claims ADA/WCAG/Section 508 compliance and screen reader + keyboard support."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "FlippingBook \u2014 accessible features plus an accessible-PDF fallback, but not a full fix for every disability."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "DCatalog \u2014 markets itself as ADA/WCAG friendly."
+  },
+  {
+   "name": "Fluidbook",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Fluidbook \u2014 says its accessibility option makes navigation and interaction comply with WCAG/EAA/RGAA."
+  },
+  {
+   "name": "3D Issue",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "3D Issue \u2014 also has recent accessibility-focused guidance and workflows for accessible page-turning publications."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Paperturn recommends pairing the flipbook with a tagged PDF/HTML alternative for formal WCAG conformance."
+  }
+ ],
+ "openai/gpt-5.4-mini|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best bet for a flipbook-style experience: Flipsnack. It has the clearest current documentation for keyboard/screen-reader accessibility"
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Also worth considering: Issuu, especially if you want a catalog publishing platform with a public accessibility statement and VPAT."
+  }
+ ],
+ "openai/gpt-5.4-mini|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best current option I found: Flipsnack. Their help docs say the platform and flipbooks can be made WCAG-compliant, keyboard/screen-reader navigable"
+  }
+ ],
+ "openai/gpt-5.4-mini|Is Publitas just a flipbook tool, or does it actually help drive online sales?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "I\u2019d treat Publitas as a marketing-to-sales conversion tool, not merely a document viewer."
+  }
+ ],
+ "openai/gpt-5.4-mini|Is Publitas just a flipbook tool, or does it actually help drive online sales?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "yes, it can help drive online sales\u2014especially if you use its product tagging, product feeds, ecommerce integrations, and tracking/optimization tools."
+  }
+ ],
+ "openai/gpt-5.4-mini|Is Publitas just a flipbook tool, or does it actually help drive online sales?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "it\u2019s built to help convert browsers into buyers, not just display pages."
+  },
+  {
+   "name": "Google Analytics 4",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "connect to tools like Google Analytics 4, Tag Manager, Adobe Analytics, and Matomo."
+  },
+  {
+   "name": "Tag Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "connect to tools like Google Analytics 4, Tag Manager, Adobe Analytics, and Matomo."
+  },
+  {
+   "name": "Adobe Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "connect to tools like Google Analytics 4, Tag Manager, Adobe Analytics, and Matomo."
+  },
+  {
+   "name": "Matomo",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "connect to tools like Google Analytics 4, Tag Manager, Adobe Analytics, and Matomo."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "alternatives like Flipsnack, Issuu, or Heyzine."
+  },
+  {
+   "name": "Issuu",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "alternatives like Flipsnack, Issuu, or Heyzine."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "alternatives like Flipsnack, Issuu, or Heyzine."
+  }
+ ],
+ "openai/gpt-5.4-mini|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|1": [
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Issuu and Publitas both still describe digital catalogs as interactive, shoppable, and useful for discovery and engagement."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "That's how vendors are still positioning it in 2026. (publitas.com)"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Shopify apps continue to market flipbooks for product showcases and storefront embedding."
+  },
+  {
+   "name": "Instagram Shop",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Use Instagram Shop / Instagram commerce when you want discovery and social selling inside Meta's ecosystem."
+  },
+  {
+   "name": "Meta",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Meta still actively maintains Instagram features and shopping-related connected-experience help content."
+  }
+ ],
+ "openai/gpt-5.4-mini|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|2": [
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Shopify's current ecommerce guidance still emphasizes modern ecommerce platforms and multi-channel selling..."
+  },
+  {
+   "name": "Instagram shop",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Instagram shop can be good for discovery and social proof, but it's still constrained by platform rules..."
+  },
+  {
+   "name": "Meta product-catalog tooling",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Meta's product-catalog tooling also shows that Instagram shopping is tied to a product catalog behind the scenes..."
+  },
+  {
+   "name": "Real3D Flipbook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Offline-to-online sharing via PDF/QR/email (apps.shopify.com/pdf-viewer-real3d-flipbook)"
+  }
+ ],
+ "openai/gpt-5.4-mini|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|3": [
+  {
+   "name": "Instagram shop",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Best for discovery and impulse/social selling: Instagram shop"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "apps.shopify.com... ecommerce site"
+  }
+ ],
+ "dataforseo/google-ai-overview|How can I update my digital catalog without breaking the shared link or losing my product tags?|1": [
+  {
+   "name": "DCatalog",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "like DCatalog or Google Drive) to keep the original URL , and edit products via your CMS/Commerce Manager"
+  },
+  {
+   "name": "Google Drive",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "your platform (like DCatalog or Google Drive) to keep the original URL"
+  },
+  {
+   "name": "Yotpo",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "support.yotpo.com/docs/updating-the-product-catalog"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "which platform or software you use for your digital catalog (e.g., Shopify, DCatalog, Meta Commerce Manager, or Google Drive)"
+  },
+  {
+   "name": "Meta Commerce Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "e.g., Shopify, DCatalog, Meta Commerce Manager, or Google Drive), I can give you the exact step-by-step menu clicks."
+  }
+ ],
+ "dataforseo/google-ai-overview|How can I update my digital catalog without breaking the shared link or losing my product tags?|2": [
+  {
+   "name": "Flippingbook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://flippingbook.com/help/online/changing-your-publication/replacing-pdf-in-publication"
+  },
+  {
+   "name": "Yotpo",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If syncing from an e-commerce platform like Shopify to an app like Yotpo..."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "e-commerce platform like Shopify"
+  },
+  {
+   "name": "Meta Commerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "such as Shopify, Meta Commerce, FlipHTML5, or Adobe are you using for your digital catalog?"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "such as Shopify, Meta Commerce, FlipHTML5, or Adobe are you using for your digital catalog?"
+  },
+  {
+   "name": "Adobe",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "such as Shopify, Meta Commerce, FlipHTML5, or Adobe are you using for your digital catalog?"
+  }
+ ],
+ "dataforseo/google-ai-overview|How can I update my digital catalog without breaking the shared link or losing my product tags?|3": [
+  {
+   "name": "DCatalog",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://zohodesk.dcatalog.com/portal/en/kb/articles/is-there-a-way-to-replace-our-current-catalog-file-with-a-new-one-without-changing-the-link-address"
+  },
+  {
+   "name": "SharePoint",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://learn.microsoft.com/en-us/answers/questions/486493/sharepoint-document-id-replace-file-while-keeping"
+  },
+  {
+   "name": "Yotpo",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://support.yotpo.com/docs/keeping-your-shopify-and-yotpo-product-catalogs-updated"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If you share which platform or software you use to host your catalog (such as Shopify, a flipbook tool, or Google Drive)"
+  },
+  {
+   "name": "Catalogy",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.catalogy.com/blog/how-to-share-a-catalog-online"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://www.smackcoders.com/blog/bulk-update-woocommerce-prices-and-stocks-using-csv.html"
+  },
+  {
+   "name": "Flowhub",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://help.flowhub.com/en/articles/14808844-bulk-catalog-actions-update-products-and-pricing-via-csv"
+  },
+  {
+   "name": "Google Drive",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If you share which platform or software you use to host your catalog (such as Shopify, a flipbook tool, or Google Drive)"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "using dedicated digital publishing platforms like Flipsnack, DCatalog, or iPaper to convert the file into an interactive flipbook"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "using dedicated digital publishing platforms like Flipsnack, DCatalog, or iPaper to convert the file into an interactive flipbook"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "using dedicated digital publishing platforms like Flipsnack, DCatalog, or iPaper to convert the file into an interactive flipbook"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What e-commerce platform do you use (Shopify, WooCommerce, etc.)?"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What e-commerce platform do you use (Shopify, WooCommerce, etc.)?"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "use a digital publishing platform like Flipsnack, DCatalog, or 3D Issue to convert your file into a flipbook"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "use a digital publishing platform like Flipsnack, DCatalog, or 3D Issue to convert your file into a flipbook"
+  },
+  {
+   "name": "3D Issue",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "use a digital publishing platform like Flipsnack, DCatalog, or 3D Issue to convert your file into a flipbook"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Which e-commerce platform you use (Shopify, WooCommerce, etc.)"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Which e-commerce platform you use (Shopify, WooCommerce, etc.)"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "use a digital flipbook and hotspot platform like Flipsnack, DCatalog, or 3D Issue"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "use a digital flipbook and hotspot platform like Flipsnack, DCatalog, or 3D Issue"
+  },
+  {
+   "name": "3D Issue",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "use a digital flipbook and hotspot platform like Flipsnack, DCatalog, or 3D Issue"
+  },
+  {
+   "name": "Adobe InDesign",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "designing the layout cleanly in a program like Adobe InDesign beforehand yields the best visual results"
+  },
+  {
+   "name": "Reddit",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Most users on Reddit also agree that designing the layout cleanly"
+  }
+ ],
+ "dataforseo/google-ai-overview|How do I track conversions and sales from a digital catalog or flipbook in GA4?|1": [
+  {
+   "name": "FlippingBook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "paste it into your flipbook software's analytics settings (such as FlippingBook, Flipsnack, or DCatalog)"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "paste it into your flipbook software's analytics settings (such as FlippingBook, Flipsnack, or DCatalog)"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "paste it into your flipbook software's analytics settings (such as FlippingBook, Flipsnack, or DCatalog)"
+  },
+  {
+   "name": "Issuu",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "which flipbook platform you use (e.g., Flipsnack, Issuu, custom PDF)"
+  },
+  {
+   "name": "Google Tag Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Use Google Tag Manager if you need to track specific internal catalog actions"
+  },
+  {
+   "name": "Google Analytics (GA4)",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "To track conversions and sales from a digital catalog or flipbook in GA4"
+  }
+ ],
+ "dataforseo/google-ai-overview|How do I track conversions and sales from a digital catalog or flipbook in GA4?|2": [
+  {
+   "name": "FlippingBook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Open your digital catalog tool (such as FlippingBook, Flipsnack, or iPaper), navigate to the analytics or integration settings"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Open your digital catalog tool (such as FlippingBook, Flipsnack, or iPaper), navigate to the analytics or integration settings"
+  },
+  {
+   "name": "iPaper",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "Open your digital catalog tool (such as FlippingBook, Flipsnack, or iPaper), navigate to the analytics or integration settings"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.paperturn.com/flipbook-help-center/how-to-track-flipbook-performance"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://help.fliphtml5.com/docs/google-analytics-4-integration-and-flipbooks-tracking/"
+  },
+  {
+   "name": "Visual Paradigm",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://blog.visual-paradigm.com/tracking-flipbook-views-with-google-analytics-integration/"
+  },
+  {
+   "name": "Google Analytics 4 (GA4)",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "connect your GA4 Measurement ID, tag specific outbound product clicks using UTM parameters or Google Tag Manager"
+  },
+  {
+   "name": "Google Tag Manager (GTM)",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If your platform supports Google Tag Manager Container Integration, set up trigger rules for clicks on specific product links"
+  }
+ ],
+ "dataforseo/google-ai-overview|How do I track conversions and sales from a digital catalog or flipbook in GA4?|3": [
+  {
+   "name": "FlippingBook Online",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Paste your GA4 G-XXXXXXXXXX ID into your flipbook software settings (such as FlippingBook Online, Paperturn, or FlipHTML5)"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Paste your GA4 G-XXXXXXXXXX ID into your flipbook software settings (such as FlippingBook Online, Paperturn, or FlipHTML5)"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Paste your GA4 G-XXXXXXXXXX ID into your flipbook software settings (such as FlippingBook Online, Paperturn, or FlipHTML5)"
+  },
+  {
+   "name": "Google Tag Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Configure event tracking\u2014via Google Tag Manager or built-in host integrations\u2014to capture when users click"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "If you share your flipbook hosting platform (e.g., Flipsnack, Publitas, or custom PDF viewer)"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "If you share your flipbook hosting platform (e.g., Flipsnack, Publitas, or custom PDF viewer)"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|1": [
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Best for automated creation and scheduling of interactive flipbooks directly from data feeds or CSV/ERP sources."
+  },
+  {
+   "name": "Productsup",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best for enterprise-level feed syndication and governance. It lets you centralize, standardize, and schedule dozens of localized or targeted product catalogs"
+  },
+  {
+   "name": "Akeneo",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Best for massive SKU volumes, complex data models, and strict publishing workflows."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "how your source data is stored (e.g., Shopify, Excel, an ERP system)"
+  },
+  {
+   "name": "Excel",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "how your source data is stored (e.g., Shopify, Excel, an ERP system)"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|2": [
+  {
+   "name": "Plytix",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "The best platforms for managing and scheduling multiple product catalogs at scale are Plytix, Productsup , and DCatalog."
+  },
+  {
+   "name": "Productsup",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "An enterprise-grade solution focused on high-volume data feed management, optimization, and automated syndication across hundreds of global channels."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Ideal for turning raw data (like CSV or ERP files) into rich interactive HTML5 flipbooks and digital catalogs automatically in seconds."
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "The best platforms for managing and scheduling dozens of digital catalogs at once are **Publitas**, **DCatalog**, and **Pimcore**"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "The best platforms for managing and scheduling dozens of digital catalogs at once are **Publitas**, **DCatalog**, and **Pimcore**"
+  },
+  {
+   "name": "Pimcore",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "The best platforms for managing and scheduling dozens of digital catalogs at once are **Publitas**, **DCatalog**, and **Pimcore**"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "your **current data source** (e.g., Shopify, CSV, or an ERP), I can narrow down the ideal platform for your workflow."
+  }
+ ],
+ "dataforseo/google-ai-overview|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "enterprise-grade digital catalog platforms like Flipsnack... offer accessibility features"
+  },
+  {
+   "name": "3D Issue",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Uses semantic text extraction rather than raw image conversion to support screen readers, tab-based keyboard navigation, and high-contrast styles."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Offers an ADA-friendly digital viewer and provides VPAT reports, though it explicitly requires an accessible underlying PDF to achieve full compliance."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Implements accessible surrounding navigation and a direct tab-stop option to download a fully compliant, accessible companion PDF."
+  }
+ ],
+ "dataforseo/google-ai-overview|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Provides an accessible flipbook player designed for WCAG 2.1 Level AA, ADA, and Section 508 compliance"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Offers ADA-friendly digital editions and Voluntary Product Accessibility Template (VPAT) reports"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Features dedicated accessibility modes that allow users to tab directly to and download a fully compliant accessible PDF version"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Provides a player aligned with WCAG 2.1 Level AA, ADA, and Section 508 standards, featuring keyboard navigation and screen reader compatibility."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Offers an accessible viewer and Voluntary Product Accessibility Template (VPAT) reports geared toward WCAG and Section 508 guidelines."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Focuses on accessible interface controls and lets you attach a fully compliant, downloadable accessible PDF directly inside the reader interface."
+  }
+ ],
+ "dataforseo/google-ai-overview|What digital catalog software works best on mobile for retail flyers?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best for mobile discovery, offering a vertical scrolling \"mini-site\" view that stacks products cleanly for phones instead of forcing users to pinch-and-zoom tra"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best for low-budget or automated projects, turning uploaded PDFs, Excel sheets, or CSV product data into interactive, fast-rendering HTML5 mobile flipbooks."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Best for integrating design workflows, allowing direct import from Canva to quickly add shoppable product tags and hotspots for mobile shoppers."
+  },
+  {
+   "name": "Canva",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "allowing direct import from Canva to quickly add shoppable product tags and hotspots for mobile shoppers."
+  }
+ ],
+ "dataforseo/google-ai-overview|What digital catalog software works best on mobile for retail flyers?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "For retail flyers on mobile, Publitas, Flipsnack , and FlipHTML5 work best by converting static pages into fast, responsive mobile experiences."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "For retail flyers on mobile, Publitas, Flipsnack , and FlipHTML5 work best by converting static pages into fast, responsive mobile experiences."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "For retail flyers on mobile, Publitas, Flipsnack , and FlipHTML5 work best by converting static pages into fast, responsive mobile experiences."
+  },
+  {
+   "name": "Canva",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Best for converting Canva designs or PDFs into interactive flipbooks."
+  }
+ ],
+ "dataforseo/google-ai-overview|What digital catalog software works best on mobile for retail flyers?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "The top digital catalog software options optimized for mobile retail flyers are Publitas, iPaper, and FlipHTML5."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "iPaper : Best for B2B and B2C retail commerce , featuring smooth mobile navigation, interactive hotspots, and integrated WhatsApp checkout options."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlipHTML5 : Best for low-budget or AI-driven creation , turning data files or PDFs into fast-loading interactive mobile flipbooks with rich multimedia support."
+  }
+ ],
+ "dataforseo/google-ai-overview|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Top choices include Flipsnack, Paperturn, FlippingBook, and Publuu."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Top choices include Flipsnack, Paperturn, FlippingBook, and Publuu."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Top choices include Flipsnack, Paperturn, FlippingBook, and Publuu."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Top choices include Flipsnack, Paperturn, FlippingBook, and Publuu."
+  }
+ ],
+ "dataforseo/google-ai-overview|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Yes, Flipsnack and FlippingBook Online let you replace an old PDF while keeping your original share link and saved interactive tags/interactions intact."
+  },
+  {
+   "name": "FlippingBook Online",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Yes, Flipsnack and FlippingBook Online let you replace an old PDF while keeping your original share link and saved interactive tags/interactions intact."
+  }
+ ],
+ "dataforseo/google-ai-overview|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Several popular platforms let you replace a PDF while keeping your existing links and URL: Flipsnack, Paperturn, and FlipHTML5."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Paperturn: Features an \"Overwrite\" function via the publication's menu options where you can check a box to preserve all links"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlipHTML5: Offers a \"Re-upload\" setting under general management that updates the document content while maintaining your book URL"
+  },
+  {
+   "name": "Flippingbook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://flippingbook.com/help/online/changing-your-publication/replacing-pdf-in-publication"
+  },
+  {
+   "name": "PubHTML5",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://pubhtml5.com/help/how-to-update-a-flipbook-without-changing-the-book-url.php"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|1": [
+  {
+   "name": "Yumpu Publishing",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Offers a robust free plan allowing unlimited publications and pages, though ads and platform branding appear unless you upgrade."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Provides a functional browser-based converter with strong multimedia integration, though free outputs include watermarks and page caps."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Features a minimalist, fast interface with flat-fee storage options instead of costly recurring tiers."
+  },
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "Top Alternatives"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|2": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "Good alternatives to Issuu without restrictive page or document tier traps include"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Highly minimalist and fast; its free tier includes shared storage and no forced ads or watermarks, while paid plans start much cheaper than Issuu."
+  },
+  {
+   "name": "Flipbooks AI",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Known for having no watermarks across plans and straightforward PDF-to-flipbook conversion with robust options for password protection and embedding."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Specializes in crisp digital catalogs with real-time editing, offering strong performance tracking and zero file size or page number caps on professional tiers."
+  }
+ ],
+ "dataforseo/google-ai-overview|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|3": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "Good alternatives to Issuu without strict page clamps or aggressive paywalls include"
+  },
+  {
+   "name": "YUMPU Publishing",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Offers a high-capacity free model allowing broad publishing and multimedia integration"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Features low-cost paid tiers starting around $4\u2013$8 per month that unlock white-label"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Provides a robust free HTML5 conversion tool for budget-conscious creators"
+  }
+ ],
+ "dataforseo/google-ai-overview|What are the best alternatives to iPaper for digital catalogs?|1": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "The best alternatives to iPaper for digital catalogs are Publitas, Flipsnack, and Publuu"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Best for enterprise retail and ecommerce brands needing deep product discovery tools, performance analytics, and automated catalog-to-commerce workflows."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Ideal for marketing teams seeking rapid setup, rich branding customization, and interactive flipbook creation."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Practical and budget-friendly choice for small businesses wanting straightforward, elegant digital publishing and tracking."
+  }
+ ],
+ "dataforseo/google-ai-overview|What are the best alternatives to iPaper for digital catalogs?|2": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "The best alternatives to iPaper for creating interactive digital catalogs and flipbooks are `Publitas, Flipsnack, and Publuu`"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Publitas: Best for enterprise-level retail and deep e-commerce integrations, offering direct data syncing with tools like Shopify and automated product feeds."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Flipsnack: Great for user-friendly design customization and manual shopping link embedding, making it ideal for marketing teams and mid-sized businesses."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Publuu: Popular for realistic page-turning visual effects, robust analytics, and fast PDF conversion at a budget-friendly price point."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "offering direct data syncing with tools like Shopify and automated product feeds."
+  }
+ ],
+ "dataforseo/google-ai-overview|What are the best alternatives to iPaper for digital catalogs?|3": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "The best alternatives to iPaper for digital catalogs are"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Best for retail and e-commerce brands needing deep product discovery, automated product feeds, and detailed performance analytics."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Ideal for marketing teams looking for fast setup, strong brand customization, and user-friendly digital flipbook creation."
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Strong choice for publishers and content-rich brands that prioritize mass distribution, content reach, and multi-channel sharing."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Practical, budget-friendly options for small businesses seeking simple, easy-to-manage publishing tools."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Practical, budget-friendly options for small businesses seeking simple, easy-to-manage publishing tools."
+  }
+ ],
+ "dataforseo/google-ai-overview|Best alternatives to Issuu for a shoppable digital catalog?|1": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "The best alternatives to Issuu for a shoppable digital catalog are"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "**Publitas:** Best for pure ecommerce and large retail inventories"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "**Flipsnack:** Best for all-in-one creation"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "**FlipHTML5:** Best for budget-conscious publishers"
+  }
+ ],
+ "dataforseo/google-ai-overview|Best alternatives to Issuu for a shoppable digital catalog?|2": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "The top alternatives to Issuu for creating interactive, shoppable digital catalogs are"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Publitas (best for retail-focused ecommerce integration)"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Flipsnack (best for robust design features and ease of use)"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlippingBook (best for professional, secure, and unbranded business catalogs)"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "FlipHTML5 (best for budget-friendly features)"
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Publuu (best for sleek presentation and tracking)"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Do you need direct ecommerce cart integration (like Shopify)?"
+  }
+ ],
+ "dataforseo/google-ai-overview|Best alternatives to Issuu for a shoppable digital catalog?|3": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "The best alternatives to Issuu for a shoppable digital catalog are"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Best for e-commerce and retail brands. It offers fast loading speeds, high-converting shoppable hotspots, product tag integrations"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best all-in-one interactive flipbook maker. It features an intuitive design interface, a built-in product tagger"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Best budget-friendly choice with strong e-commerce support. It allows you to embed prices, shopping links, videos, and animations"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Best for professional business catalogs and corporate collateral. It provides clean, ad-free presentations, lead generation forms"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Best for simple and fast PDF conversion. It offers affordable tiers, clean interactive elements, and custom branding controls"
+  }
+ ],
+ "dataforseo/google-ai-overview|What is the best flipbook software for retailers in 2026?|1": [],
+ "dataforseo/google-ai-overview|What is the best flipbook software for retailers in 2026?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Flipsnack: Best overall for retailers due to its interactive e-commerce integrations, product tagging, shopping lists, and robust drag-and-drop catalog builder "
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "FlipHTML5: Best for versatile, budget-friendly publishing, offering a capable free tier, rich media support, and batch-upload options to convert plain PDFs into"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlippingBook: Best for lead generation and professional sales collateral tracking, starting at $20 per month with precise analytics on how shoppers interact wit"
+  }
+ ],
+ "dataforseo/google-ai-overview|What is the best flipbook software for retailers in 2026?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best overall for e-commerce integration, featuring shopping buttons to sell products directly inside the flipbook, rich analytics, and automation integrations l"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Best for secure, professional sales collateral and lead generation, offering trackable document links and clean branding tools"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Best for budget-conscious or entry-level users, offering robust free tiers, batch PDF uploads, and interactive multimedia adjustments"
+  },
+  {
+   "name": "Zapier",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "automation integrations like Zapier"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If you share your retail platform (Shopify, WooCommerce, etc.)"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "If you share your retail platform (Shopify, WooCommerce, etc.)"
+  }
+ ],
+ "dataforseo/google-ai-overview|What are the top-rated content experience platforms for retail marketing teams?|1": [
+  {
+   "name": "Adobe Experience Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Adobe Experience Manager : Excels at large-scale digital asset management, dynamic media delivery, and personalized shopping experiences across global touchpoin"
+  },
+  {
+   "name": "Sitecore",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Sitecore : Combines enterprise content management, robust customer data analytics, and advanced automated personalization for content-led retail strategies."
+  },
+  {
+   "name": "Bloomreach",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Bloomreach : Integrates real-time product data and customer insights to drive hyper-personalized search, landing pages, and cross-channel campaigns."
+  },
+  {
+   "name": "Contentful",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Contentful : A flexible headless content platform that lets retail developers and marketers structure reusable content blocks for apps, web..."
+  },
+  {
+   "name": "Optimizely One",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Optimizely One : Offers powerful experimentation, content optimization, and performance tracking tools tailored for fast-moving digital marketers."
+  },
+  {
+   "name": "Storyblok",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Storyblok : Provides a visual editor combined with a headless architecture, helping lean marketing teams manage multi-channel retail campaigns quickly."
+  }
+ ],
+ "dataforseo/google-ai-overview|What are the top-rated content experience platforms for retail marketing teams?|2": [
+  {
+   "name": "Adobe Experience Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Adobe Experience Manager : Best for heavy digital asset management and rich, content-driven customer experiences."
+  },
+  {
+   "name": "Sitecore",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Sitecore : Powerful for enterprise content-led strategies, advanced personalization, and deep data analytics."
+  },
+  {
+   "name": "Optimizely One",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Optimizely One : Strong focus on digital performance, experimentation, and optimization."
+  },
+  {
+   "name": "Bloomreach",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Bloomreach : Excels at real-time e-commerce personalization and omnichannel retail campaigns."
+  },
+  {
+   "name": "HubSpot CMS Hub",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "HubSpot CMS Hub : Ideal for mid-market teams needing fast, CRM-integrated content workflows and automation."
+  },
+  {
+   "name": "Contentstack",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Contentstack : A flexible, headless content choice for modern omnichannel retail distribution."
+  }
+ ],
+ "dataforseo/google-ai-overview|What are the top-rated content experience platforms for retail marketing teams?|3": [
+  {
+   "name": "Adobe Experience Manager",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Best for massive asset management and data-driven retail campaigns."
+  },
+  {
+   "name": "Sitecore Content Hub",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Strong for content lifecycle control, personalization, and multi-channel marketing analytics."
+  },
+  {
+   "name": "Bloomreach",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Ideal for connecting real-time customer data directly to e-commerce product recommendations."
+  },
+  {
+   "name": "Optimizely One",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Popular for running rapid digital performance tests and localized layout optimizations."
+  }
+ ],
+ "dataforseo/google-ai-overview|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is better for pure ecommerce conversion and large-scale retail feeds"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Functions as a general flipbook creator that adds manual product tags... rather than deep store engines."
+  }
+ ],
+ "dataforseo/google-ai-overview|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is better for pure ecommerce conversion and scale"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Flipsnack is better for design flexibility and budget-friendly creation."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Do you have an automated product feed (XML/Shopify sync)"
+  }
+ ],
+ "dataforseo/google-ai-overview|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is generally better for pure ecommerce conversion and deep store integration"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Flipsnack is better for creative design flexibility and rapid, all-in-one publishing."
+  }
+ ],
+ "dataforseo/google-ai-overview|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "**Publitas** is best for large-scale ecommerce product discovery..."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "**iPaper** excels at automated retail leaflet workflows"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "**Flipsnack** is ideal for fast, brand-controlled marketing setups."
+  }
+ ],
+ "dataforseo/google-ai-overview|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is the best overall platform for shoppable retail content, followed closely by iPaper and Flipsnack."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "followed closely by iPaper and Flipsnack."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "followed closely by iPaper and Flipsnack. Flipsnack prioritizes quick, general-purpose marketing design."
+  }
+ ],
+ "dataforseo/google-ai-overview|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "**Publitas** is best for large retail e-commerce integration"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "**iPaper** excels at quick automated leaflet enrichment"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "**Flipsnack** is ideal for general marketing design and ease of use."
+  },
+  {
+   "name": "Google Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "deep tracking via Google Analytics and Meta Pixel"
+  },
+  {
+   "name": "Meta Pixel",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "deep tracking via Google Analytics and Meta Pixel"
+  },
+  {
+   "name": "WhatsApp",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "alternative in-catalog checkout options like WhatsApp"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "primary e-commerce platform (like Shopify or Magento)"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "primary e-commerce platform (like Shopify or Magento)"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best free flipbook maker?|1": [
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "The best free flipbook makers are **FlipHTML5**, **Heyzine** , and **Flipsnack**"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Offers a clean, modern interface with a basic free plan that converts PDFs quickly"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Features a polished design studio and free PDF conversion, but the free tier is heavily restricted"
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Works well if you want your digital magazine or catalog hosted on a massive content discovery network"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best free flipbook maker?|2": [
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "The best free flipbook makers are FlipHTML5, Heyzine, and Flipsnack."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "The best free flipbook makers are FlipHTML5, Heyzine, and Flipsnack."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "The best free flipbook makers are FlipHTML5, Heyzine, and Flipsnack."
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best free flipbook maker?|3": [
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "The best free flipbook makers are **FlipHTML5**, **Heyzine** , and **Issuu** ."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Offers a basic free plan for up to 5 flipbooks with unlimited pages."
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "A classic digital publishing network that hosts your work online."
+  }
+ ],
+ "dataforseo/google-ai-overview|Are flipbooks still popular?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Businesses use tools like Flipsnack or FlippingBook to cut down on printing and shipping costs for monthly catalogs or reports."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Businesses use tools like Flipsnack or FlippingBook to cut down on printing and shipping costs for monthly catalogs or reports."
+  },
+  {
+   "name": "dCatalog",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://dcatalog.com/benefits-of-digital-flipbooks/"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.paperturn.com/blog/digital-marketing/flipbook-software-in-2026"
+  },
+  {
+   "name": "Foleon",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.foleon.com/topics/flipbook"
+  },
+  {
+   "name": "Yumpu",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://en.blog.yumpu.com/flipbooks/flip-books/"
+  },
+  {
+   "name": "Formax Printing",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://www.formaxprinting.com/blog/the-art-of-flipbook-printing-explained"
+  },
+  {
+   "name": "Adobe",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://www.adobe.com/uk/creativecloud/animation/discover/flipbook-animation.html"
+  }
+ ],
+ "dataforseo/google-ai-overview|Are flipbooks still popular?|2": [
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Platforms like Issuu and Flipsnack convert static PDFs into page-turning digital brochures, reports, and catalogs."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Platforms like Issuu and Flipsnack convert static PDFs into page-turning digital brochures, reports, and catalogs."
+  },
+  {
+   "name": "Realview Digital",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.realviewdigital.com/why-your-flipbook-isnt-going-to-cut-it-in-todays-mobile-market-2/"
+  },
+  {
+   "name": "Flippingbook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://flippingbook.com/blog/marketing-tips/what-is-a-flipbook"
+  },
+  {
+   "name": "Foleon",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.foleon.com/topics/flipbook"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.paperturn.com/blog/digital-marketing/flipbook-software-in-2026"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.reddit.com/r/magazinepublishing/comments/16uqbvt/issuu_vs_flipsnack_vs_heyzine_vs_flippingbook_vs/"
+  },
+  {
+   "name": "Fliplify",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.fliplify.com/flipbook-trends-whats-new-in-the-world-of-digital-publishing/"
+  },
+  {
+   "name": "YouTube",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "shared across social media platforms like YouTube and TikTok."
+  },
+  {
+   "name": "TikTok",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "shared across social media platforms like YouTube and TikTok."
+  }
+ ],
+ "dataforseo/google-ai-overview|Are flipbooks still popular?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Businesses use modern software like Flipsnack and FlippingBook to change static PDF files into interactive online catalogs"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Businesses use modern software like Flipsnack and FlippingBook to change static PDF files into interactive online catalogs"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best way to turn a PDF into an online catalog people can browse and shop from?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "use specialized digital flipbook and catalog publishing platforms like Flipsnack..."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "...catalog publishing platforms like Flipsnack, FlippingBook, or iPaper."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "...platforms like Flipsnack, FlippingBook, or iPaper."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Which e-commerce platform you use (Shopify, WooCommerce, etc.)"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Which e-commerce platform you use (Shopify, WooCommerce, etc.)"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best way to turn a PDF into an online catalog people can browse and shop from?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "use a digital flipbook platform like Flipsnack or FlippingBook"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "use a digital flipbook platform like Flipsnack or FlippingBook"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What e-commerce platform you use (Shopify, WooCommerce, etc.)"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What e-commerce platform you use (Shopify, WooCommerce, etc.)"
+  }
+ ],
+ "dataforseo/google-ai-overview|What's the best way to turn a PDF into an online catalog people can browse and shop from?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "The best way to turn a PDF into a shoppable online catalog is to use a digital flipbook and catalog-publishing platform like Flipsnack, FlippingBook , or iPaper"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "The best way to turn a PDF into a shoppable online catalog is to use a digital flipbook and catalog-publishing platform like Flipsnack, FlippingBook , or iPaper"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "The best way to turn a PDF into a shoppable online catalog is to use a digital flipbook and catalog-publishing platform like Flipsnack, FlippingBook , or iPaper"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What e-commerce platform you use (Shopify, WooCommerce, etc.)"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What e-commerce platform you use (Shopify, WooCommerce, etc.)"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Yes, digital catalog and flipbook tools like Flipsnack, FlippingBook, and DCatalog offer accessibility features"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Yes, digital catalog and flipbook tools like Flipsnack, FlippingBook, and DCatalog offer accessibility features"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Yes, digital catalog and flipbook tools like Flipsnack, FlippingBook, and DCatalog offer accessibility features"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "like Flipsnack or FlippingBook Online. While these platforms adapt their outer interfaces for screen readers"
+  },
+  {
+   "name": "FlippingBook Online",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "like Flipsnack or FlippingBook Online. While these platforms adapt their outer interfaces for screen readers"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Offers customizable toolbars, keyboard shortcuts, and alternative reading views"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Flipsnack: Provides a dedicated accessibility tool letting creators add page titles, text descriptions, and AI-generated content summaries for screen readers"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "FlippingBook: Adapts its surrounding UI for screen readers and high contrast, and includes an option to attach a separate, fully accessible download PDF"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "DCatalog: Offers customized HTML views, customizable toolbars, and Voluntary Product Accessibility Template (VPAT) reports"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is Publitas just a flipbook tool, or does it actually help drive online sales?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is more than a basic flipbook tool; `it actively helps drive online sales` by functioning as a shoppable content-to-commerce platform."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What **ecommerce platform** do you use (Shopify, Magento, etc.)?"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What **ecommerce platform** do you use (Shopify, Magento, etc.)?"
+  },
+  {
+   "name": "Anyflip",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.publitas.com/blog/best-anyflip-alternatives-for-digital-catalogs-flipbooks-and-marketing-content/"
+  },
+  {
+   "name": "Relayto",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.publitas.com/blog/relayto-vs-joomag/"
+  },
+  {
+   "name": "Joomag",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.publitas.com/blog/relayto-vs-joomag/"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is Publitas just a flipbook tool, or does it actually help drive online sales?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is much more than a basic flipbook tool; it functions as a comprehensive Shoppable Experience Platform"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What ecommerce platform (like Shopify or Magento) do you use?"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What ecommerce platform (like Shopify or Magento) do you use?"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is Publitas just a flipbook tool, or does it actually help drive online sales?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is an active sales and discovery platform rather than just a basic flipbook tool"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What ecommerce platform (like Shopify or Magento) you use"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "What ecommerce platform (like Shopify or Magento) you use"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|1": [
+  {
+   "name": "Publitas",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.publitas.com/blog/how-flipbooks-boost-sales-digital-commerce/"
+  },
+  {
+   "name": "Catalog Machine",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://blog.catalogmachine.com/digital-catalogs-best-product-marketing-sales-tool-small-businesses-online-stores/"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://blog.flipsnack.com/e-catalogs-guide-create-electronic-catalogs/"
+  },
+  {
+   "name": "Calameo",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://blog.calameo.com/19291/flipbook-what-it-is-why-it-matters-and-where-to-use-it-in-digital-publishing/"
+  },
+  {
+   "name": "Flippingbook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://flippingbook.com/blog/marketing-tips/publuu-alternative"
+  },
+  {
+   "name": "Publuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "https://flippingbook.com/blog/marketing-tips/publuu-alternative"
+  },
+  {
+   "name": "AIMS360",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://www.aims360.com/fashion-business-resources/clothing-industry-apparel-erp-software-business-management"
+  },
+  {
+   "name": "Yo-Kart",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://www.yo-kart.com/blog/b2b-b2c-c2c-ecommerce-models/"
+  },
+  {
+   "name": "Redpepper Digital",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://www.redpepperdigital.net/insights/replace-print-catalogs-with-digital/"
+  },
+  {
+   "name": "eMagazines",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://emagazines.com/blog/digital-magazine-maker/"
+  },
+  {
+   "name": "Leaky Paywall",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "https://leakypaywall.com/do-flipbook-editions-work/"
+  },
+  {
+   "name": "Antares",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "https://antares.am/e-magazineseng/?lang=en"
+  }
+ ],
+ "dataforseo/google-ai-overview|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|2": [
+  {
+   "name": "Instagram",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Use Instagram to build an audience, launch trends, and capture impulse shoppers."
+  }
+ ],
+ "dataforseo/google-ai-overview|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|3": [
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "digital editions via platforms like [FlippingBook](https://flippingbook.com/blog/marketing-tips/what-is-a-digital-catalog) let you fix errors, change prices, an"
+  },
+  {
+   "name": "Instagram Shops",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Instagram / Social Shops: Best for fast discovery, viral reach, and low-friction mobile impulse purchases. However, they lack deep storytelling space"
+  },
+  {
+   "name": "Reddit",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Users on [Reddit](https://www.reddit.com/r/ecommerce/...) generally agree that interactive, clickable flipbooks offer a focused, magazine-style experience"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|How can I update my digital catalog without breaking the shared link or losing my product tags?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Flipsnack automatically updates all shared links and embeds instantly when you edit your published catalog."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Digital catalog URLs persist, automatically routing every viewer to the most up-to-date version."
+  },
+  {
+   "name": "Catalogy",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Uses a single URL that always delivers the most current version of your catalog, no matter how many times the content has been updated."
+  },
+  {
+   "name": "Google Sheets",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Connect data sources (CSV, Google Sheets, Shopify, PIM systems) for automatic updates"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Connect data sources (CSV, Google Sheets, Shopify, PIM systems) for automatic updates"
+  },
+  {
+   "name": "PIM systems",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Connect data sources (CSV, Google Sheets, Shopify, PIM systems) for automatic updates"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|How can I update my digital catalog without breaking the shared link or losing my product tags?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "With Flipsnack, editing your published catalog updates all shared links and embeds instantly."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Digital catalog URLs persist, automatically routing every viewer to the most up-to-date version."
+  },
+  {
+   "name": "Catalogy",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "It is a single URL that always delivers the most current version of your catalog, no matter how many times the content has been updated."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|How can I update my digital catalog without breaking the shared link or losing my product tags?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Flipsnack allows you to edit your published catalog and updates all shared links and embeds instantly."
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Publitas digital catalog URLs persist, automatically routing every viewer to the most up-to-date version"
+  },
+  {
+   "name": "Catalogy",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Catalogy provides a single dynamic URL that always delivers the most current version of your catalog"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Can connect to data sources like CSV, Google Sheets, Shopify, or PIM systems for automatic updates"
+  },
+  {
+   "name": "Google Sheets",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Can connect to data sources like CSV, Google Sheets, Shopify, or PIM systems for automatic updates"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|1": [
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Upload your PDF or provide product data through XML or CSV files and DCatalog converts that content into an interactive shoppable catalog, complete with eCommer"
+  },
+  {
+   "name": "FlipLink",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "The free catalog-maker tool takes a PDF and produces a shareable link immediately. This is where static PDF becomes shoppable."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Upload your PDF catalog to Flipsnack, where you can quickly turn it into a digital, interactive catalog."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Bulk import product links with automated matching, to turn entire catalogs shoppable in minutes, not days."
+  },
+  {
+   "name": "CM: Catalog2Cart",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Designed specifically for Shopify stores with pricing starting at free for 1 catalog. Add interactive hotspots to highlight products directly in Catalog PDF."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|2": [
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Upload your PDF or provide product data through XML or CSV files and DCatalog converts that content into an interactive shoppable catalog, complete with eCommer"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "You can upload your PDF catalog to Flipsnack, where you can quickly turn it into a digital, interactive catalog and add external links to drive traffic to your "
+  },
+  {
+   "name": "FlipLink",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlipLink offers a one-time lifetime deal with every feature included from day one and no monthly bills."
+  },
+  {
+   "name": "CM: Catalog2Cart",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "This app adds dynamic hotspots to Catalog PDF, enabling customers to click and shop directly by converting traditional catalogs into interactive experiences."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best way to turn a PDF catalog into a shoppable experience with clickable product links?|3": [
+  {
+   "name": "DCatalog",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "DCatalog converts that content into an interactive shoppable catalog, complete with eCommerce links, shopping windows, buy buttons, videos, analytics"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Converts static PDFs into interactive shoppable catalogs, integrating shopping buttons and product variations directly from a spreadsheet."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Upload a PDF in iPaper to convert it to a digital catalog in seconds, then add interactivity like videos, animation, and images"
+  },
+  {
+   "name": "FlipLink",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Convert any PDF into a professional, interactive digital catalog in minutes \u2014 no design skills required."
+  },
+  {
+   "name": "PubHTML5",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "This PDF catalog maker allows you to transform existing PDF files into stunning digital catalogs that can be distributed worldwide"
+  },
+  {
+   "name": "CM: Catalog2Cart",
+   "stance": "recommended",
+   "rank": 6,
+   "evidence": "Adds dynamic hotspots to Catalog PDF, enabling customers to click and shop directly. Pricing starts free for 1 catalog"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "The platform integrates with Shopify, WooCommerce & Magento"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "The platform integrates with Shopify, WooCommerce & Magento"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "The platform integrates with Shopify, WooCommerce & Magento"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|How do I track conversions and sales from a digital catalog or flipbook in GA4?|1": [
+  {
+   "name": "Google Analytics (GA4)",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Create a new GA4 property in Google Analytics and link it to your flipbook platform account"
+  },
+  {
+   "name": "Google Tag Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Google Tag Manager offers a simple way for marketers to track flipbook events, statistics, and conversions"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Flipsnack - Supports GA4 and GTM integration with custom event tracking"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Paperturn - Offers GA4 integration and GTM support for advanced conversion tracking"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlippingBook - Compatible with GA4 and GTM (requires custom domain)"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "DCatalog - Provides GA4 integration with ecommerce tracking features"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "iPaper - Tracks pageviews and events through GA4/GTM"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|How do I track conversions and sales from a digital catalog or flipbook in GA4?|2": [
+  {
+   "name": "Google Analytics 4",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "To track conversions and sales from a digital catalog or flipbook in GA4, you'll need to integrate your flipbook platform with Google Analytics 4"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Most major flipbook platforms like Flipsnack, Paperturn, FlippingBook, and DCatalog support GA4 integration"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Most major flipbook platforms like Flipsnack, Paperturn, FlippingBook, and DCatalog support GA4 integration"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Most major flipbook platforms like Flipsnack, Paperturn, FlippingBook, and DCatalog support GA4 integration"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Most major flipbook platforms like Flipsnack, Paperturn, FlippingBook, and DCatalog support GA4 integration"
+  },
+  {
+   "name": "Google Tag Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Google Tag Manager offers a way for marketers to track flipbook events, statistics, and conversions without needing to alter any code."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|How do I track conversions and sales from a digital catalog or flipbook in GA4?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Through Google Tag Manager (GTM), you can track key actions like page flips, link clicks, downloads, zooms, and searches as well as custom events"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Google Tag Manager offers a simple and intuitive way for marketers to track flipbook events, statistics, and conversions without needing to alter any code"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Supports GA4 tracking with both built-in analytics and GA4 integration"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "There is a built-in eCommerce tracking feature to track sales and conversion data"
+  },
+  {
+   "name": "Google Tag Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Integrate GA4 with your flipbook platform (via direct integration or Google Tag Manager)"
+  },
+  {
+   "name": "Google Analytics 4",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "In GA4, conversions are tracked by collecting events and marking the most valuable ones as key events."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas (Top Recommendation) ... ideal for managing dozens of catalogs with different timing requirements."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "DCatalog supports integration via API or webhook, and can be set on a scheduler to ensure your content stays current"
+  },
+  {
+   "name": "Akeneo",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Akeneo is a product experience cloud built to centralize, enrich, and activate product information across channels"
+  },
+  {
+   "name": "LAGO by Comosoft",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "LAGO allows teams to automatically place product data and images into layouts, manage approvals, and publish updated catalogs"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "1. Publitas ... specifically designed to manage multiple product catalog publications."
+  },
+  {
+   "name": "Akeneo PIM",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "2. Akeneo PIM ... best for mid-market and enterprise teams managing complex product catalogs"
+  },
+  {
+   "name": "Hygraph",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "3. Hygraph ... particularly suitable for teams that need to schedule and control multiple catalog publications"
+  },
+  {
+   "name": "Contentserv",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "4. Contentserv focuses on catalog management with strong product data workflows, including versioning, approvals, and governed content publication"
+  },
+  {
+   "name": "Pimcore",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "5. Pimcore's flexibility can deliver data from a central repository and display it on any sales channel."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best digital catalog platform for managing and scheduling dozens of catalogs at once?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas (Top Recommendation)... For managing and scheduling dozens of catalogs simultaneously, Publitas stands out with its dedicated scheduling features and a"
+  },
+  {
+   "name": "Akeneo",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Akeneo is a product experience cloud built to centralize, enrich, and activate product information across channels... best for mid-market and enterprise teams m"
+  },
+  {
+   "name": "Plytix",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Plytix is a PIM platform that bundles digital asset management, AI content tools, and catalog publishing, built for SMB and growth teams"
+  },
+  {
+   "name": "DDS Acadia Platform",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "DDS Acadia combines AI enrichment, real-time manufacturer connections, and direct e-commerce integrations to help manage cleaner catalogs, particularly suited f"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "## **Flipsnack** (Recommended for Enterprise)"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "DCatalog's viewer is compliant with the ADA Section 508/WCAG guidelines."
+  },
+  {
+   "name": "ZenFlip",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "ZenFlip provides the accessibility infrastructure automatically, so you can focus on source document quality..."
+  },
+  {
+   "name": "3D Issue",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Their Flipbooks solution allows quick conversion and interactive upgrades while supporting accessibility features at scale..."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "## **Flipsnack** (Recommended for Enterprise)"
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "DCatalog's viewer is compliant with the ADA Section 508/WCAG guidelines."
+  },
+  {
+   "name": "ZenFlip",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "ZenFlip provides the accessibility infrastructure automatically, so you can focus on source document quality..."
+  },
+  {
+   "name": "3D Issue",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "3D Issue's Flipbooks allow quick conversion and interactive upgrades while supporting accessibility features at scale..."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Flipsnack's flipbook player meets ADA, WCAG 2.1 Level AA, and Section 508 standards."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "DCatalog's viewer is compliant with the ADA Section 508/WCAG guidelines."
+  },
+  {
+   "name": "ZenFlip",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "ZenFlip provides the accessibility infrastructure automatically for digital catalogs..."
+  },
+  {
+   "name": "3D Issue",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "3D Issue's Flipbooks allow quick conversion and interactive upgrades while supporting accessibility features at scale."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What digital catalog software works best on mobile for retail flyers?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Publitas transforms print catalogs and flyers into interactive, shoppable experiences for web and mobile, converting PDFs into mobile-optimized interactive cata"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended-primary",
+   "rank": 2,
+   "evidence": "Flipsnack stands out as the overall top pick, scoring highest across features, ease of use, and value."
+  },
+  {
+   "name": "XC Digital Flyers",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "XC Digital Flyers is an advanced mobile and web platform that streamlines online shopping through creation of digital flyers and product catalogs."
+  },
+  {
+   "name": "Zmags",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Zmags converts static PDFs into interactive, responsive digital catalogs with mobile optimization, making it suitable for retail teams creating conversion-focus"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What digital catalog software works best on mobile for retail flyers?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "**1. Publitas** This platform transforms print catalogs and flyers into interactive, shoppable experiences optimized for web and mobile, with one-click PDF conv"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "**2. Flipsnack** Flipsnack ranks as the overall top pick, scoring highest across combined criteria of features, ease of use, and value."
+  },
+  {
+   "name": "XC Digital Flyers",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "**3. XC Digital Flyers** XC Digital Flyers is an advanced mobile and web platform that streamlines online shopping through creation of digital flyers and produc"
+  },
+  {
+   "name": "Zmags",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "**4. Zmags** Zmags converts static PDFs into interactive, responsive digital catalogs and flipbooks, with mobile optimization making it suitable for retail and "
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What digital catalog software works best on mobile for retail flyers?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "A content-to-commerce platform that helps retailers transform print catalogs and flyers into interactive, shoppable experiences for web and mobile."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "It scored highest across combined criteria of features, ease of use, and value and supports converting PDF documents into publishable catalog links..."
+  },
+  {
+   "name": "XC Digital Flyers",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "An advanced mobile and web platform that streamlines online shopping through creation of digital flyers and product catalogs."
+  },
+  {
+   "name": "Zmags",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Enables brands to add shoppable hotspots, videos, animations, and e-commerce integrations for engaging customer experiences..."
+  },
+  {
+   "name": "MOMA",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Over 2000 leading brands as MOMA, Crate & Barrel, Carrefour, and IKEA are using their technology."
+  },
+  {
+   "name": "Crate & Barrel",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Over 2000 leading brands as MOMA, Crate & Barrel, Carrefour, and IKEA are using their technology."
+  },
+  {
+   "name": "Carrefour",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Over 2000 leading brands as MOMA, Crate & Barrel, Carrefour, and IKEA are using their technology."
+  },
+  {
+   "name": "IKEA",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Over 2000 leading brands as MOMA, Crate & Barrel, Carrefour, and IKEA are using their technology."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|1": [
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Publuu keeps every interactive element you added on the same page of your flipbook even when you replace a PDF file."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "When you replace your PDF (available with Starter or higher plans), FlippingBook asks you what to do with any links..."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Paperturn's overwrite function lets you update your flipbook while keeping the original shared link..."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|2": [
+  {
+   "name": "Publuu",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "The key difference is that Publuu automatically preserves all interactive elements including product tags..."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "When you replace your PDF, they will ask you what to do with any links and other content you added: keep them... or remove them."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "You can choose whether to retain the links, videos, and other interactive elements you have added. Select the elements..."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Also allows PDF replacement while keeping interactive elements in place."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Which flipbook platform lets me replace a PDF without having to re-tag all my product links?|3": [
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Every interactive element you once added remains on the same page of your flipbook even if you replace a PDF file."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "When you replace your PDF (feature available with Starter or higher plans), they will ask you what to do with any links..."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "You can select the elements you want to preserve when you replace your PDF. If the option is Checked, the elements will be preserved."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|1": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "here are the best Issuu alternatives without page limits or features locked behind expensive tiers:"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Top Recommendation) Heyzine offers unlimited pages on all plans, including the free tier."
+  },
+  {
+   "name": "FlipLink",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "FlipLink offers a lifetime deal pricing model starting at $39 one-time with no monthly fees ever."
+  },
+  {
+   "name": "AnyFlip",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "AnyFlip offers a free tier and low-cost paid plans, making it an accessible Issuu pricing alternative"
+  },
+  {
+   "name": "Yumpu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Yumpu positions itself as a simple, low-cost digital publishing tool that is functional and affordable"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|2": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "here are the best Issuu alternatives without page limits or expensive paywalls"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Heyzine offers unlimited pages on all plans, including the free tier... Top Recommendation"
+  },
+  {
+   "name": "FlipLink",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "FlipLink offers a lifetime deal pricing model starting at $39 one-time with no monthly fees ever."
+  },
+  {
+   "name": "Yumpu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Yumpu is a simple, low-cost digital publishing tool that's functional and affordable"
+  },
+  {
+   "name": "Calam\u00e9o",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "The free plan includes 15 publications, with paid plans starting at $15/month."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's a good Issuu alternative without page limits or features locked behind expensive tiers?|3": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "here are the best Issuu alternatives without page limits or expensive paywalls:"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "## **Heyzine** (Top Recommendation)"
+  },
+  {
+   "name": "FlipLink",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "FlipLink offers a lifetime deal starting from $39 one-time with no monthly fees..."
+  },
+  {
+   "name": "AnyFlip",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "AnyFlip offers a free tier and low-cost paid plans... serves as a strong Issuu alternative."
+  },
+  {
+   "name": "Yumpu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Yumpu has a free tier available with paid plans from around $16/month... functional and affordable."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What are the best alternatives to iPaper for digital catalogs?|1": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "here are the best alternatives to iPaper for digital catalogs"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Publitas is built specifically for retail and ecommerce teams, connecting directly to product feeds and enabling hotspot-based shopping links"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Flipsnack is one of the more accessible tools like iPaper for teams that need to publish branded, interactive flipbooks without a heavy setup process"
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Publuu is a digital tool that transforms static PDF files into interactive flipbooks...emphasizing ease of use over feature depth."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "FlippingBook is a great alternative for sales enablement, marketing, and HR specialists who want to digitize their business documents"
+  },
+  {
+   "name": "Joomag",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "one of the most popular alternatives to iPaper, along with Flipsnack, FlippingBook, Publuu, Joomag, and Publitas"
+  },
+  {
+   "name": "Issuu",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Issuu is better suited for editorial and branding use cases"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What are the best alternatives to iPaper for digital catalogs?|2": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "here are the best alternatives to iPaper for digital catalogs:"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Publitas is built specifically for retail and ecommerce teams, connecting directly to product feeds with hotspot-based shopping links"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Flipsnack is an online platform that allows users to create interactive digital publications"
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Publuu is a digital tool that transforms static PDF files into interactive flipbooks."
+  },
+  {
+   "name": "On Page",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "On Page specializes in drafting and publishing product information in real-time on a variety of mediums"
+  },
+  {
+   "name": "CatalogIt",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "CatalogIt is a powerful cloud-based collections management system for cataloging, managing, and publishing records of collections."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What are the best alternatives to iPaper for digital catalogs?|3": [
+  {
+   "name": "iPaper",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "here are the best alternatives to iPaper for digital catalogs:"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Publitas has a leading position in delivering Digital Catalog Enterprise software for retailers within Europe."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "G2 rates Flipsnack as the best overall iPaper alternative."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "DCatalog is better suited to businesses that require enterprise-scale publishing, advanced document customization, and support for complex B2B workflows."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Publuu is among similar apps like iPaper and is mentioned as a top alternative across multiple platforms."
+  },
+  {
+   "name": "RELAYTO AI",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "RELAYTO AI, Canva, and Plytix Cloud PIM & DAM are also similar alternatives."
+  },
+  {
+   "name": "Canva",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "RELAYTO AI, Canva, and Plytix Cloud PIM & DAM are also similar alternatives."
+  },
+  {
+   "name": "Plytix Cloud PIM & DAM",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "RELAYTO AI, Canva, and Plytix Cloud PIM & DAM are also similar alternatives."
+  },
+  {
+   "name": "XC Digital Flyers",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "XC Digital Flyers is an advanced platform that streamlines online shopping through creation of digital flyers and product catalogs"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "modern ecommerce teams need features such as automated catalog creation, Shopify integrations, live inventory syncing"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Best alternatives to Issuu for a shoppable digital catalog?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "For the most robust shoppable catalog features, Publitas appears to be the leading choice with the most comprehensive ecommerce integrations and retailer-specif"
+  },
+  {
+   "name": "Veopage",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Veopage is one of the strongest alternatives and is often preferred for ecommerce due to shoppable catalog capabilities."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "iPaper is a digital catalog platform that lets you convert your printed leaflets and catalogs into fully interactive digital shopping experiences."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Publuu is considered the best all-around Issuu alternative with interactive features and smart analytics"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "its shoppable catalog features are limited compared to Publitas."
+  },
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "here are the best alternatives to Issuu for shoppable digital catalogs"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Best alternatives to Issuu for a shoppable digital catalog?|2": [
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "Here are the best alternatives to Issuu for creating shoppable digital catalogs:"
+  },
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas stands out as a platform specifically designed for retailers creating shoppable catalogs and interactive magazines."
+  },
+  {
+   "name": "Veopage",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "If you need catalogs that drive sales, with shoppable features, advanced interactivity, and a conversion-first approach, Veopage is the alternative that stands "
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "However, its shoppable catalog features are limited compared to Publitas."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "For traditional flipbooks, Publuu is a strong alternative."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "If price is your priority, Heyzine offers the lowest investment."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Flipsnack is the fastest PDF-to-flipbook converter on the market, allowing you to bring your PDFs to life"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "native integrations with Shopify, Google Analytics, Google Shopping, and Meta Pixel."
+  },
+  {
+   "name": "Google Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "native integrations with Shopify, Google Analytics, Google Shopping, and Meta Pixel."
+  },
+  {
+   "name": "Google Shopping",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Digital catalogs can be generated directly from Google Shopping feeds"
+  },
+  {
+   "name": "Meta Pixel",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "native integrations with Shopify, Google Analytics, Google Shopping, and Meta Pixel."
+  },
+  {
+   "name": "HubSpot",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "It integrates with HubSpot and Zapier, supports custom branding, and provides mid-tier analytics."
+  },
+  {
+   "name": "Zapier",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "It integrates with HubSpot and Zapier, supports custom branding, and provides mid-tier analytics."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Best alternatives to Issuu for a shoppable digital catalog?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is built specifically for retail and ecommerce teams that need their digital catalog to function as a sales channel...Over 2000 leading brands like MOM"
+  },
+  {
+   "name": "Veopage",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Veopage is one of the strongest alternatives for interactive and sales-focused catalogs, and is often preferred for ecommerce due to shoppable catalog capabilit"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "iPaper is a digital catalog platform that lets you convert your printed leaflets and catalogs into fully interactive digital shopping experiences."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Publuu is rated as the best all-around Issuu alternative with interactive features, smart analytics, and easy-to-use interface."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "FlippingBook is best for professional, mobile-friendly presentations and is a great alternative for sales enablement, marketing, and HR specialists"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 6,
+   "evidence": "Heyzine - Best affordable option for small teams and educators."
+  },
+  {
+   "name": "Issuu",
+   "stance": "foil",
+   "rank": null,
+   "evidence": "here are the best alternatives to Issuu for creating shoppable digital catalogs"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "native integrations with Shopify, Google Analytics, Google Shopping, and Meta Pixel"
+  },
+  {
+   "name": "Google Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "native integrations with Shopify, Google Analytics, Google Shopping, and Meta Pixel"
+  },
+  {
+   "name": "Google Shopping",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "native integrations with Shopify, Google Analytics, Google Shopping, and Meta Pixel"
+  },
+  {
+   "name": "Meta Pixel",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "native integrations with Shopify, Google Analytics, Google Shopping, and Meta Pixel"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What is the best flipbook software for retailers in 2026?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "It's the best flipbook maker for retail marketers that want to automate the creation of product catalogs."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "iPaper is a digital catalog platform that converts printed leaflets and catalogs into fully interactive digital shopping experiences"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "FlippingBook is best for professional catalogs and is recognized as an industry leader in the space."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Paperturn converts PDFs into online, digital flipbooks that can contain a variety of interactive features, including a shopping cart"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What is the best flipbook software for retailers in 2026?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "## Top Recommendation for Retailers  **Publitas** - Best for retail focus."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "**iPaper** - A digital catalog platform that lets you convert printed leaflets and catalogs into fully interactive digital shopping experiences"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "**Flipsnack** - Best flipbook maker for retail marketers that want to automate the creation of product catalogs."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "**FlippingBook** - Best for professional catalogs and works well for B2B retailers."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What is the best flipbook software for retailers in 2026?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is specifically highlighted as having a retail focus and is prioritizing 'measurable engagement' over visual novelty. This makes it an excellent choice"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "iPaper is a digital catalog platform that lets you convert printed leaflets and catalogs into fully interactive digital shopping experiences"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Flipsnack is the best flipbook maker for retail marketers that want to automate the creation of product catalogs."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "FlippingBook is best for professional catalogs and is noted as an industry leader focusing on measurable engagement"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What are the top-rated content experience platforms for retail marketing teams?|1": [
+  {
+   "name": "Adobe Experience Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "A comprehensive content management solution aimed at large enterprises that need to deliver personalized digital experiences"
+  },
+  {
+   "name": "Sitecore",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Another enterprise pick known for comprehensive content platform capabilities and strong digital asset management."
+  },
+  {
+   "name": "Optimizely",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Rounds out the enterprise category with robust testing and optimization features."
+  },
+  {
+   "name": "Bloomreach",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "The agentic platform for personalization, powering autonomous search, conversational shopping, and autonomous marketing."
+  },
+  {
+   "name": "Contentstack",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "A headless content management system designed for enterprises looking to deliver content across multiple channels."
+  },
+  {
+   "name": "HubSpot CMS Hub",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "A mid-market option with strong marketing automation integration."
+  },
+  {
+   "name": "Storyblok",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Designed for smaller teams needing agile content management."
+  },
+  {
+   "name": "Contentful",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Another lean team option with headless CMS capabilities."
+  },
+  {
+   "name": "Foleon",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Focused on creating interactive content experiences for smaller marketing teams."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What are the top-rated content experience platforms for retail marketing teams?|2": [
+  {
+   "name": "Adobe Experience Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Adobe Experience Manager is recommended for enterprises, offering comprehensive content management..."
+  },
+  {
+   "name": "Sitecore",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Sitecore is an enterprise pick for content experience platforms."
+  },
+  {
+   "name": "Optimizely",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Optimizely is another enterprise pick for larger organizations."
+  },
+  {
+   "name": "Bloomreach",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Bloomreach is recommended for mid-market companies. It's particularly strong for retail..."
+  },
+  {
+   "name": "Contentstack",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Contentstack is a mid-market option and is a headless content management system..."
+  },
+  {
+   "name": "HubSpot CMS Hub",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "HubSpot CMS Hub is positioned for mid-market teams."
+  },
+  {
+   "name": "Storyblok",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Storyblok is recommended for lean teams."
+  },
+  {
+   "name": "Contentful",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Contentful is another lean team option."
+  },
+  {
+   "name": "Foleon",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Foleon is designed for lean teams."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What are the top-rated content experience platforms for retail marketing teams?|3": [
+  {
+   "name": "Adobe Experience Manager",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "A comprehensive content management solution aimed at large enterprises..."
+  },
+  {
+   "name": "Sitecore",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Another enterprise pick recognized for handling complex workflows..."
+  },
+  {
+   "name": "Optimizely",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Rounds out the enterprise category as a top-rated platform for larger retail organizations."
+  },
+  {
+   "name": "Bloomreach",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Particularly well-suited for medium to large enterprises in e-commerce and retail..."
+  },
+  {
+   "name": "Contentstack",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Excels in ease of setup, with many users highlighting its intuitive onboarding..."
+  },
+  {
+   "name": "HubSpot CMS Hub",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "A mid-market platform offering integrated content management capabilities."
+  },
+  {
+   "name": "Storyblok",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Designed for smaller, agile marketing teams needing efficient content management."
+  },
+  {
+   "name": "Contentful",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Another lean team option for streamlined content operations."
+  },
+  {
+   "name": "Foleon",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Suited for teams looking for simplified content experience capabilities."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Based on my research, **Publitas is better for shoppable ecommerce catalogs** compared to Flipsnack."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Flipsnack is primarily designed for static publishing with limited ecommerce depth."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Publitas allows Shopify store owners to pull in product data from their Shopify store..."
+  },
+  {
+   "name": "Myshopi",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "direct connections to Shopify, Myshopi and custom product feeds"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is better for shoppable ecommerce catalogs if conversion and revenue are your primary goals."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Flipsnack is primarily designed for static publishing with limited ecommerce depth."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Native ecommerce integration with direct connections to Shopify, Myshopi and custom product feeds"
+  },
+  {
+   "name": "Myshopi",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Native ecommerce integration with direct connections to Shopify, Myshopi and custom product feeds"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Native connectors support Shopify, Magento, WooCommerce, BigCommerce, and other major eCommerce platforms"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Native connectors support Shopify, Magento, WooCommerce, BigCommerce, and other major eCommerce platforms"
+  },
+  {
+   "name": "BigCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Native connectors support Shopify, Magento, WooCommerce, BigCommerce, and other major eCommerce platforms"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Flipsnack vs Publitas: which is better for shoppable ecommerce catalogs?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is better for shoppable ecommerce catalogs compared to Flipsnack."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "its ecommerce features are more limited compared to Publitas's specialized capabilities."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "direct connections to Shopify"
+  },
+  {
+   "name": "Myshopi",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "direct connections to Shopify, Myshopi"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best for Shoppable Retail Content: Publitas"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Runner-Up for E-commerce: iPaper"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Not Ideal for Retail: Flipsnack"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Automated product feed sync from Shopify and custom feeds"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best for Shoppable Retail Content: Publitas"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "iPaper: Strong Alternative for Automation"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Flipsnack, in comparison, is primarily designed for static publishing with limited ecommerce depth."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Automated product feed sync from Shopify and custom feeds"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|iPaper vs Publitas vs Flipsnack: which digital catalog platform is best for shoppable retail content?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Best Choice: Publitas... For retailers who need shoppable catalogs with live product feed integration and commerce analytics, Publitas is consistently among the"
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Better for: Retailers needing omnichannel checkout (WhatsApp, email) and advanced automation. Pricing starts around \u20ac1,295/month for Plus plans."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Primarily designed for static publishing with limited ecommerce depth. Better for: Marketing teams needing branded flipbooks with minimal setup rather than comm"
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Automated product feed sync from Shopify and custom feeds"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best free flipbook maker?|1": [
+  {
+   "name": "Flipbooks AI",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "For the best overall free experience without watermarks or restrictions, Flipbooks AI is your top choice."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Publuu earns the top spot for 2026 with its unrestricted trial, interactive range, analytics depth, and stable HTML5 delivery"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Heyzine has built a reputation for delivering the cleanest free flipbook experience with a minimal interface and fast conversion."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "offers a free plan, though with limitations like branding watermarks and restricted analytics."
+  },
+  {
+   "name": "ZenFlip",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "ZenFlip's Explorer plan is free forever with no trial period and no credit card required, though ZenFlip branding appears on the viewer."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best free flipbook maker?|2": [
+  {
+   "name": "Flipbooks AI",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Flipbooks AI leads the pack with a clean, no-watermark experience even on its free tier."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Publuu earns the top spot for 2026, with the unrestricted trial, interactive range, analytics depth, and stable HTML5 delivery"
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Heyzine has built a reputation for delivering the cleanest free flipbook experience after Flipbooks AI"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "offers free plans though with limitations like branding watermarks and restricted analytics."
+  },
+  {
+   "name": "ZenFlip",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "Explorer plan is free forever with no trial period and no credit card required, though it includes branding on the viewer."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best free flipbook maker?|3": [
+  {
+   "name": "Flipbooks AI",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Top Recommendation: Flipbooks AI... offers a clean, no-watermark experience even on its free tier, with unlimited flipbooks, mobile-responsive output, and profe"
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Publuu earns top recognition for 2026 with an unrestricted trial, interactive range, analytics depth, and stable HTML5 delivery."
+  },
+  {
+   "name": "Heyzine",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Heyzine has built a reputation for delivering the cleanest free flipbook experience with a minimal interface and fast conversion."
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "FlipHTML5 is a veteran platform... and it has a free plan though with limitations like branding watermarks and restricted analytics."
+  },
+  {
+   "name": "ZenFlip",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "ZenFlip's Explorer plan is free forever with no trial period and no credit card required, though it includes ZenFlip branding on the viewer."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Are flipbooks still popular?|1": [],
+ "anthropic/claude-sonnet-4-5-20250929|Are flipbooks still popular?|2": [],
+ "anthropic/claude-sonnet-4-5-20250929|Are flipbooks still popular?|3": [],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best way to turn a PDF into an online catalog people can browse and shop from?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Flipsnack transforms static PDFs into professional-looking catalogs with life-like page flip effects. It offers customers a quick way to add products to a shopp"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Paperturn's digital catalog software transforms PDF catalogs into online flipbooks that you can share, embed and add interactive features to. Their shopping car"
+  },
+  {
+   "name": "Catalog Machine",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Catalog Machine integrates with e-commerce stores including Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce. The app lets you create, edit or import p"
+  },
+  {
+   "name": "PubHTML5",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "PubHTML5 allows you to insert links, audios, videos, images, hotspots and ecommerce icons into your catalog. The online catalogs can be shared via a QR code or "
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Upload a PDF to FlippingBook and it will be converted to an interactive catalog where you can customize it, set distribution preferences, and add interactive fe"
+  },
+  {
+   "name": "Catalog2Cart",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "CM: Catalog2Cart turns product PDFs into interactive images with dynamic hotspots, allowing customers to click and add products to their cart directly."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Catalog Machine integrates with e-commerce stores including Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce."
+  },
+  {
+   "name": "Etsy",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Catalog Machine integrates with e-commerce stores including Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce."
+  },
+  {
+   "name": "eBay",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Catalog Machine integrates with e-commerce stores including Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce."
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Catalog Machine integrates with e-commerce stores including Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce."
+  },
+  {
+   "name": "PrestaShop",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Catalog Machine integrates with e-commerce stores including Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce."
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Catalog Machine integrates with e-commerce stores including Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best way to turn a PDF into an online catalog people can browse and shop from?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Converts your PDF into a secure, mobile-friendly web catalog in minutes with buy buttons, hyperlinks, videos, and more."
+  },
+  {
+   "name": "iPaper",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Makes it effortless to turn your PDFs into interactive digital catalogs customers can browse and shop."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Shopping cart feature allows customers to place orders directly from your catalog and add products to a Wish List or Shopping cart."
+  },
+  {
+   "name": "Catalog Machine",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Includes pre-built Product Order Form or receives customer orders & payments directly from a flipbook."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Converts your static PDF into an interactive catalog with videos, clickable links, and detailed pop-up images."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Integrates with Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce stores."
+  },
+  {
+   "name": "Etsy",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Integrates with Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce stores."
+  },
+  {
+   "name": "eBay",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Integrates with Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce stores."
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Integrates with Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce stores."
+  },
+  {
+   "name": "PrestaShop",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Integrates with Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce stores."
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Integrates with Shopify, Etsy, eBay, Magento, PrestaShop, and WooCommerce stores."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|What's the best way to turn a PDF into an online catalog people can browse and shop from?|3": [
+  {
+   "name": "iPaper",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "iPaper makes it effortless to turn your PDFs into interactive digital catalogs customers can browse and shop."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "DCatalog transforms your PDF into a shoppable product catalog software integrated with Shopify..."
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Flipsnack converts static PDFs into interactive shoppable catalogs, integrating shopping buttons..."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Paperturn auto-detects existing links from your PDF and lets you add \"where to buy\" buttons..."
+  },
+  {
+   "name": "Google Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "...built-in statistics or Google Analytics integration to track sessions..."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "...integrated with Shopify, WooCommerce & Magento with no coding needed."
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "...integrated with Shopify, WooCommerce & Magento with no coding needed."
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "...integrated with Shopify, WooCommerce & Magento with no coding needed."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|1": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "1. Flipsnack Flipsnack offers a page-flip format paired with an accessible version which allows you to manipulate the font size and add alternative texts..."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "2. Paperturn Paperturn's Disability Interface Tool has both pre-built disability profiles and custom accessibility adjustments for ease of use..."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "3. FlippingBook FlippingBook has taken steps to improve the accessibility of flipbooks starting with FlippingBook Publisher version 2019.2..."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "4. DCatalog DCatalog converts PDFs into customized, interactive HTML flipbooks that can be easily and seamlessly navigated through keyboard shortcuts..."
+  },
+  {
+   "name": "3D Issue (Experios)",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "5. 3D Issue (Experios) Publications created in Experios are fully compliant with WCAG (Web Content Accessibility Guidelines) specifications..."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|2": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Flipsnack lets you turn accessible PDFs into interactive flipbooks that meet WCAG 2.1 AA and ADA compliance standards..."
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Paperturn's flipbook system is accessible and compliant with WCAG 2.2 at the AA Level, US Section 508, and ADA Title III."
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "mentioned-negative",
+   "rank": null,
+   "evidence": "However, publications created with FlippingBook Publisher are not automatically ADA 508 or WCAG compliant even if your PDF is."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "DCatalog's ADA friendly viewer supports assistive technologies such as navigation through keyboard shortcuts and an expandable table of contents."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is there flipbook or digital catalog software that's actually accessible for people with disabilities?|3": [
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Offers a page-flip format paired with an accessible version which allows you to manipulate the font size and add alternative texts to describe page content"
+  },
+  {
+   "name": "Paperturn",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Features a Disability Interface Tool with both pre-built disability profiles and custom accessibility adjustments for ease of use and complete customization."
+  },
+  {
+   "name": "DCatalog",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Converts PDFs into customized, interactive HTML flipbooks that can be easily and seamlessly navigated through keyboard shortcuts or an expandable table of conte"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "Provides the option to add an accessible PDF download for people who are blind or heavily visually impaired. Has greatly improved keyboard control of flipbooks."
+  },
+  {
+   "name": "3D Issue Experios",
+   "stance": "recommended",
+   "rank": 5,
+   "evidence": "Publications created in Experios are fully compliant with WCAG specifications and also meet ADA guidelines. Note that their flipbook product is not accessible"
+  },
+  {
+   "name": "NVDA",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "These platforms work with screen readers like NVDA, JAWS, and VoiceOver to support users with visual impairments."
+  },
+  {
+   "name": "JAWS",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "These platforms work with screen readers like NVDA, JAWS, and VoiceOver to support users with visual impairments."
+  },
+  {
+   "name": "VoiceOver",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "These platforms work with screen readers like NVDA, JAWS, and VoiceOver to support users with visual impairments."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is Publitas just a flipbook tool, or does it actually help drive online sales?|1": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is definitely more than just a flipbook tool\u2014it's specifically designed to drive online sales."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Integrates with analytics, marketing, content management, commerce, and customer engagement platforms including Shopify..."
+  },
+  {
+   "name": "Google Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "...and customer engagement platforms including Shopify, Google Analytics, and Adobe Analytics"
+  },
+  {
+   "name": "Adobe Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "...including Shopify, Google Analytics, and Adobe Analytics"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is Publitas just a flipbook tool, or does it actually help drive online sales?|2": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is much more than just a flipbook tool \u2013 it's specifically designed to drive online sales."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Publitas catalogs integrate with popular e-commerce platforms including Shopify, Magento, and WooCommerce"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Publitas catalogs integrate with popular e-commerce platforms including Shopify, Magento, and WooCommerce"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Publitas catalogs integrate with popular e-commerce platforms including Shopify, Magento, and WooCommerce"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is Publitas just a flipbook tool, or does it actually help drive online sales?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Publitas is far more than just a flipbook tool\u2014it's specifically designed to drive online sales."
+  },
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Publitas integrates with platforms including Shopify, Google Analytics 360, Google Tag Manager 360, Adobe Analytics, and others"
+  },
+  {
+   "name": "Google Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Google Analytics-based performance tracking"
+  },
+  {
+   "name": "Google Analytics 360",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Publitas integrates with platforms including Shopify, Google Analytics 360, Google Tag Manager 360, Adobe Analytics, and others"
+  },
+  {
+   "name": "Google Tag Manager 360",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Publitas integrates with platforms including Shopify, Google Analytics 360, Google Tag Manager 360, Adobe Analytics, and others"
+  },
+  {
+   "name": "Adobe Analytics",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Publitas integrates with platforms including Shopify, Google Analytics 360, Google Tag Manager 360, Adobe Analytics, and others"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|1": [
+  {
+   "name": "Shopify",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Modern flipbook platforms integrate with Shopify, Magento, and WooCommerce to enable direct ecommerce functionality"
+  },
+  {
+   "name": "Magento",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Modern flipbook platforms integrate with Shopify, Magento, and WooCommerce to enable direct ecommerce functionality"
+  },
+  {
+   "name": "WooCommerce",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Modern flipbook platforms integrate with Shopify, Magento, and WooCommerce to enable direct ecommerce functionality"
+  },
+  {
+   "name": "FlippingBook",
+   "stance": "mentioned-neutral",
+   "rank": null,
+   "evidence": "FlippingBook is often used in B2B environments where catalogues are part of a wider sales enablement strategy"
+  },
+  {
+   "name": "Instagram",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "drive traffic to your ecommerce site or Instagram shop"
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|2": [
+  {
+   "name": "FlippingBook",
+   "stance": "recommended",
+   "rank": 1,
+   "evidence": "Focuses on turning static PDFs into professional, branded online documents with strong privacy controls and tracking capabilities, often used in B2B environment"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "Particularly attractive for growing businesses that want strong visual presentation combined with ease of use."
+  },
+  {
+   "name": "Publuu",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "Stands out with a strong focus on interactive digital catalogs that stay easy to distribute via shareable viewer links and embedded experiences, supporting mult"
+  },
+  {
+   "name": "Issuu",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "A valuable tool for publishers looking for exposure by hosting a community of readers, providing an easy and convenient way to access digital content."
+  },
+  {
+   "name": "Instagram Shop",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Instagram Shop, the catalog and product-tagging system, still exists, but what ended is native in-app checkout, replaced by website checkout in September 2025."
+  },
+  {
+   "name": "Meta",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "Meta's earnings reports showing minimal growth from Instagram Shopping."
+  }
+ ],
+ "anthropic/claude-sonnet-4-5-20250929|Is digital catalog and flipbook software outdated compared to just running an ecommerce site or Instagram shop?|3": [
+  {
+   "name": "Publitas",
+   "stance": "recommended-primary",
+   "rank": 1,
+   "evidence": "Advanced platforms like **Publitas** are designed primarily for retail and ecommerce brands... Best for high-SKU retailers and conversion-focused strategies"
+  },
+  {
+   "name": "Flipsnack",
+   "stance": "recommended",
+   "rank": 2,
+   "evidence": "**Flipsnack** - Strong for visual presentation and growing businesses"
+  },
+  {
+   "name": "FlipHTML5",
+   "stance": "recommended",
+   "rank": 3,
+   "evidence": "**FlipHTML5** - Good for basic publishing needs"
+  },
+  {
+   "name": "YUDU",
+   "stance": "recommended",
+   "rank": 4,
+   "evidence": "**YUDU** - Enterprise-focused with rich media capabilities"
+  },
+  {
+   "name": "Instagram",
+   "stance": "out-of-category",
+   "rank": null,
+   "evidence": "compared to ecommerce sites or Instagram shops... Instagram shop"
+  }
+ ]
+}

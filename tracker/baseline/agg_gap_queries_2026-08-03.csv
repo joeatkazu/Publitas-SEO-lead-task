@@ -1,0 +1,10 @@
+query,intent_group,brand_cited,brand_mentioned_uncited
+How can I update my digital catalog without breaking the shared link or losing my product tags?,problem-led,no,no
+How do I track conversions and sales from a digital catalog or flipbook in GA4?,problem-led,no,no
+Is there an ADA-compliant digital catalog or flipbook platform for enterprise use?,problem-led,no,no
+What digital catalog software works best on mobile for retail flyers?,problem-led,no,yes
+What's a good Issuu alternative without page limits or features locked behind expensive tiers?,alternatives,no,no
+What are the top-rated content experience platforms for retail marketing teams?,best-of,no,no
+What's the best free flipbook maker?,naive,no,no
+Are flipbooks still popular?,naive,no,no
+Is there flipbook or digital catalog software that's actually accessible for people with disabilities?,naive,no,no

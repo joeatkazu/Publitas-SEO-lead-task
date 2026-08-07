@@ -3,7 +3,8 @@
 citations -- for everyone, not just Publitas?"""
 import json, csv, glob, re, collections, os
 
-BASE = "/Users/joerobinson/seo-tools/GEO-tracker-Main/geo-tracker/brands/publitas/baseline"
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE = os.environ.get("BASELINE_DIR", os.path.join(REPO, "tracker", "baseline"))
 REC = {"recommended-primary", "recommended"}
 
 answers = {}

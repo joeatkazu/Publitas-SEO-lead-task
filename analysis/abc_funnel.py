@@ -18,10 +18,10 @@ import collections
 import csv
 import glob
 import json
+import os
 
-BASELINE = (
-    "/Users/joerobinson/seo-tools/GEO-tracker-Main/geo-tracker/brands/publitas/baseline"
-)
+REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASELINE = os.environ.get("BASELINE_DIR", os.path.join(REPO, "tracker", "baseline"))
 RECOMMENDING = {"recommended-primary", "recommended"}
 NO_FETCH_LIST = "dataforseo"  # AI Overviews: citations only, no retrieval set
 
